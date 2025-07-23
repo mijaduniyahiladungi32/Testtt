@@ -1,0 +1,23 @@
+{
+  "name": "Eventi",
+  "author": "Simud",
+  "image": "https://media0.giphy.com/media/Q2uk5XNnlATqumoDF7/200w.gif?cid=6c09b9527ye9agpzw5eroab1islf6rfc1kiweuec63nhb1jc&ep=v1_stickers_search&rid=200w.gif&ct=s",
+  "info": "Skymud si sta evolvendo ",
+  "url": "https://raw.githubusercontent.com/simud/simud/refs/heads/main/W3U/Events.w3u",
+  "groups": [
+    {
+      "name": "Eventi SportStreaming (Manutenzione)",
+      "author": "Simud",
+      "image": "https://media.tenor.com/wU-hCae1a8sAAAAM/live.gif",
+      "url": "https://raw.githubusercontent.com/simud/simud/refs/heads/main/sportstreaming_playlist.m3u8",
+      "import": true
+    },
+    {
+      "name": "Eventi Daddy (Funzionante)",
+      "author": "Simud",
+      "image": "https://media.itsnicethat.com/original_images/596cdb667fa44c57af00322a.gif",
+      "url": "https://www.dropbox.com/scl/fi/dx4hx6r1afta3rps460p2/daddycombo.w3u?rlkey=qsuyf79bgcpenase1owwm7c2d&dl=1",
+      "import": true
+    }
+  ]
+}

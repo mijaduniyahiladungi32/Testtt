@@ -1,0 +1,30 @@
+{
+  "name": "Live TV",
+  "author": "Simud",
+  "image": "https://media0.giphy.com/media/Q2uk5XNnlATqumoDF7/200w.gif?cid=6c09b9527ye9agpzw5eroab1islf6rfc1kiweuec63nhb1jc&ep=v1_stickers_search&rid=200w.gif&ct=s",
+  "info": "Skymud si sta evolvendo ",
+  "url": "https://raw.githubusercontent.com/simud/simud/refs/heads/main/W3U/LiveTV.w3u",
+  "groups": [
+    {
+      "name": "Canali Daddy Sport",
+      "author": "Simud",
+      "image": "https://www.gbnews.com/media-library/animated-gif-showing-playlist-on-an-ocean-blue-sky-glass-tv.gif?id=53569922&width=800&quality=90",
+      "url": "https://www.dropbox.com/scl/fi/71mjopy5b1ur61dej7rfi/sportitalia.w3u?rlkey=fy4vgef2182hs3nyudwz2x6is&dl=1",
+      "import": true
+    },
+    {
+      "name": "Canali Daddy Cinema+Intrattenimento",
+      "author": "Simud",
+      "image": "https://static.wixstatic.com/media/11e745_9470427ae0384dcb8bb8d2f9a39bac6e~mv2.gif",
+      "url": "https://www.dropbox.com/scl/fi/5md0zofs1dq7qu2ovyjtv/canalidaddy.w3u?rlkey=46jy9pp00ysmg6g6sc78co5ti&dl=1",
+      "import": true
+    },
+    {
+      "name": "Canali Twitch (Kings League)",
+      "author": "Simud",
+      "image": "https://static.wixstatic.com/media/11e745_9470427ae0384dcb8bb8d2f9a39bac6e~mv2.gif",
+      "url": "https://raw.githubusercontent.com/simud/simud/refs/heads/main/twitch_streams.m3u8",
+      "import": true
+    }
+  ]
+}
