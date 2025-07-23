@@ -762,8 +762,6 @@ https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO (D)
 https://thedaddy.click/stream/stream-860.php
@@ -885,8 +883,6 @@ https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -925,20 +921,14 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlynapolivsarezzo" tvg-name="Soccer | Club Friendly : Napoli vs Arezzo (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Arezzo.png" group-title="Eventi Live",Soccer | Club Friendly : Napoli vs Arezzo (18:00)
-https://thedaddy.click/stream/stream-23.php
+#EXTINF:-1 tvg-id="clubfriendlygalatasarayvscagliari" tvg-name="Soccer | Club Friendly : Galatasaray vs Cagliari (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Galatasaray_vs_Cagliari.png" group-title="Eventi Live",Soccer | Club Friendly : Galatasaray vs Cagliari (19:30)
+https://thedaddy.click/stream/stream-55.php
 
-#EXTINF:-1 tvg-id="uefawomenseuroenglandvsitaly" tvg-name="Soccer | UEFA Women's Euro : England vs Italy (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/England_vs_Italy.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : England vs Italy (21:00)
-https://thedaddy.click/stream/stream-850.php
+#EXTINF:-1 tvg-id="uefaweurogermanyvsspain" tvg-name="Soccer | UEFA W. EURO : Germany vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Germany_vs_Spain.png" group-title="Eventi Live",Soccer | UEFA W. EURO : Germany vs Spain (21:00)
+https://thedaddy.click/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="worlduniversitygamesrhineruhrmatchday2" tvg-name="Athletics | World University Games Rhine-Ruhr | Matchday 2 (17:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Athletics | World University Games Rhine-Ruhr | Matchday 2 (17:30)
+#EXTINF:-1 tvg-id="nationsleaguewomenpolandwvschinaw" tvg-name="Volleyball | Nations League Women : Poland W vs China W (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Poland W_vs_China W.png" group-title="Eventi Live",Volleyball | Nations League Women : Poland W vs China W (19:30)
 https://thedaddy.click/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="finalfourpetanque2025fromgorizia" tvg-name="Bowling | Final Four Petanque 2025-from Gorizia (17:00)" tvg-logo="https://www.petanque-petanque.com/wp-content/uploads/2023/10/Logo_TDV_Pastille-300x300-1.png" group-title="Eventi Live",Bowling | Final Four Petanque 2025-from Gorizia (17:00)
-https://thedaddy.click/stream/stream-882.php
-
-#EXTINF:-1 tvg-id="2025worldaquaticschampionshipsmenswaterpolo2ndsemifinal" tvg-name="Water polo | 2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal (15:25)" tvg-logo="https://thumbor.prod.vidiocdn.com/1PJrrwza6E8n76ncCjCrQ83LBMU=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/472/world-aquatics-aee3e1.png" group-title="Eventi Live",Water polo | 2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal (15:25)
-https://thedaddy.click/stream/stream-882.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
