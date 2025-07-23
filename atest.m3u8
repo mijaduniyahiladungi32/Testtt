@@ -1,0 +1,287 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="DOMENICA",DOMENICA
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 tvg-name="00:00 USA x Costa Rica" tvg-language="UNKNOWN" group-title="DOMENICA",00:00 USA x Costa Rica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd5.php
+#EXTINF:-1 tvg-name="00:00 USA x Costa Rica" tvg-language="UNKNOWN" group-title="DOMENICA",00:00 USA x Costa Rica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd11.php
+#EXTINF:-1 tvg-name="00:00 USA x Costa Rica" tvg-language="UNKNOWN" group-title="DOMENICA",00:00 USA x Costa Rica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/sporttv1.php
+#EXTINF:-1 tvg-name="00:00 USA x Costa Rica" tvg-language="UNKNOWN" group-title="DOMENICA",00:00 USA x Costa Rica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br2.php
+#EXTINF:-1 tvg-name="11:00 DP World Tour: Italian Open - D4" tvg-language="UNKNOWN" group-title="DOMENICA",11:00 DP World Tour: Italian Open - D4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/sporttv3.php
+#EXTINF:-1 tvg-name="11:00 MotoGP: GP of Netherlands" tvg-language="UNKNOWN" group-title="DOMENICA",11:00 MotoGP: GP of Netherlands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd10.php
+#EXTINF:-1 tvg-name="11:00 MotoGP: GP of Netherlands" tvg-language="UNKNOWN" group-title="DOMENICA",11:00 MotoGP: GP of Netherlands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/sporttv4.php
+#EXTINF:-1 tvg-name="11:00 MotoGP: GP of Netherlands" tvg-language="UNKNOWN" group-title="DOMENICA",11:00 MotoGP: GP of Netherlands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br6.php
+#EXTINF:-1 tvg-name="14:00 Austrian F1 Grand Prix" tvg-language="UNKNOWN" group-title="DOMENICA",14:00 Austrian F1 Grand Prix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd2.php
+#EXTINF:-1 tvg-name="14:00 Austrian F1 Grand Prix" tvg-language="UNKNOWN" group-title="DOMENICA",14:00 Austrian F1 Grand Prix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd7.php
+#EXTINF:-1 tvg-name="14:00 Austrian F1 Grand Prix" tvg-language="UNKNOWN" group-title="DOMENICA",14:00 Austrian F1 Grand Prix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.ci/
+#EXTVLCOPT:http-origin=https://sportzonline.ci/
+https://sportzonline.si/channels/bra/br4.php
+#EXTINF:-1 tvg-name="16:30 Levski Sofia x Montana" tvg-language="UNKNOWN" group-title="DOMENICA",16:30 Levski Sofia x Montana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd9.php
+#EXTINF:-1 tvg-name="17:00 England W x Jamaica W" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 England W x Jamaica W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/sporttv1.php
+#EXTINF:-1 tvg-name="17:00 England W x Jamaica W" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 England W x Jamaica W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br2.php
+#EXTINF:-1 tvg-name="17:00 PSG x Inter Miami" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 PSG x Inter Miami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd1.php
+#EXTINF:-1 tvg-name="17:00 PSG x Inter Miami" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 PSG x Inter Miami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd2.php
+#EXTINF:-1 tvg-name="17:00 PSG x Inter Miami" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 PSG x Inter Miami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd4.php
+#EXTINF:-1 tvg-name="17:00 PSG x Inter Miami" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 PSG x Inter Miami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd6.php
+#EXTINF:-1 tvg-name="17:00 PSG x Inter Miami" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 PSG x Inter Miami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd11.php
+#EXTINF:-1 tvg-name="17:00 PSG x Inter Miami" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 PSG x Inter Miami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd7.php
+#EXTINF:-1 tvg-name="17:00 PSG x Inter Miami" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 PSG x Inter Miami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd8.php
+#EXTINF:-1 tvg-name="17:00 PSG x Inter Miami" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 PSG x Inter Miami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/eleven1.php
+#EXTINF:-1 tvg-name="17:00 PSG x Inter Miami" tvg-language="UNKNOWN" group-title="DOMENICA",17:00 PSG x Inter Miami
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br1.php
+#EXTINF:-1 tvg-name="20:00 Athletic Club x Remo" tvg-language="UNKNOWN" group-title="DOMENICA",20:00 Athletic Club x Remo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br5.php
+#EXTINF:-1 tvg-name="21:00 Canada x Guatemala" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Canada x Guatemala
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd5.php
+#EXTINF:-1 tvg-name="21:00 Canada x Guatemala" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Canada x Guatemala
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd11.php
+#EXTINF:-1 tvg-name="21:00 Canada x Guatemala" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Canada x Guatemala
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/sporttv1.php
+#EXTINF:-1 tvg-name="21:00 Flamengo x Bayern MÃ¼nchen" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Flamengo x Bayern MÃ¼nchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd2.php
+#EXTINF:-1 tvg-name="21:00 Flamengo x Bayern MÃ¼nchen" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Flamengo x Bayern MÃ¼nchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd3.php
+#EXTINF:-1 tvg-name="21:00 Flamengo x Bayern MÃ¼nchen" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Flamengo x Bayern MÃ¼nchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd4.php
+#EXTINF:-1 tvg-name="21:00 Flamengo x Bayern MÃ¼nchen" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Flamengo x Bayern MÃ¼nchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd6.php
+#EXTINF:-1 tvg-name="21:00 Flamengo x Bayern MÃ¼nchen" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Flamengo x Bayern MÃ¼nchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd7.php
+#EXTINF:-1 tvg-name="21:00 Flamengo x Bayern MÃ¼nchen" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Flamengo x Bayern MÃ¼nchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd8.php
+#EXTINF:-1 tvg-name="21:00 Flamengo x Bayern MÃ¼nchen" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Flamengo x Bayern MÃ¼nchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/eleven1.php
+#EXTINF:-1 tvg-name="21:00 Flamengo x Bayern MÃ¼nchen" tvg-language="UNKNOWN" group-title="DOMENICA",21:00 Flamengo x Bayern MÃ¼nchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br1.php
+#EXTINF:-1 tvg-name="23:00 Chapecoense x GoiÃ¡s" tvg-language="UNKNOWN" group-title="DOMENICA",23:00 Chapecoense x GoiÃ¡s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br6.php
+#EXTINF:-1 tvg-name="23:00 Ludogorets x KÃ¸benhavn" tvg-language="UNKNOWN" group-title="DOMENICA",23:00 Ludogorets x KÃ¸benhavn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd9.php
+
+#EXTINF:-1 group-title="LUNEDÌ",LUNEDÌ
+#EXTVLCOPT:http-referrer=
+#EXTINF:-1 tvg-name="01:00 CuiabÃ¡ x Botafogo SP" tvg-language="UNKNOWN" group-title="LUNEDÌ",01:00 CuiabÃ¡ x Botafogo SP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br5.php
+#EXTINF:-1 tvg-name="02:00 Manchester City x Al Hilal" tvg-language="UNKNOWN" group-title="LUNEDÌ",02:00 Manchester City x Al Hilal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd2.php
+#EXTINF:-1 tvg-name="02:00 Manchester City x Al Hilal" tvg-language="UNKNOWN" group-title="LUNEDÌ",02:00 Manchester City x Al Hilal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd4.php
+#EXTINF:-1 tvg-name="02:00 Manchester City x Al Hilal" tvg-language="UNKNOWN" group-title="LUNEDÌ",02:00 Manchester City x Al Hilal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd6.php
+#EXTINF:-1 tvg-name="02:00 Manchester City x Al Hilal" tvg-language="UNKNOWN" group-title="LUNEDÌ",02:00 Manchester City x Al Hilal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd7.php
+#EXTINF:-1 tvg-name="02:00 Manchester City x Al Hilal" tvg-language="UNKNOWN" group-title="LUNEDÌ",02:00 Manchester City x Al Hilal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd8.php
+#EXTINF:-1 tvg-name="02:00 Manchester City x Al Hilal" tvg-language="UNKNOWN" group-title="LUNEDÌ",02:00 Manchester City x Al Hilal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/eleven1.php
+#EXTINF:-1 tvg-name="02:00 Manchester City x Al Hilal" tvg-language="UNKNOWN" group-title="LUNEDÌ",02:00 Manchester City x Al Hilal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br1.php
+#EXTINF:-1 tvg-name="11:00 Wimbledon" tvg-language="UNKNOWN" group-title="LUNEDÌ",11:00 Wimbledon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/sporttv2.php
+#EXTINF:-1 tvg-name="11:00 Wimbledon" tvg-language="UNKNOWN" group-title="LUNEDÌ",11:00 Wimbledon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/sporttv3.php
+#EXTINF:-1 tvg-name="20:00 Internazionale x Fluminense" tvg-language="UNKNOWN" group-title="LUNEDÌ",20:00 Internazionale x Fluminense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd2.php
+#EXTINF:-1 tvg-name="20:00 Internazionale x Fluminense" tvg-language="UNKNOWN" group-title="LUNEDÌ",20:00 Internazionale x Fluminense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd4.php
+#EXTINF:-1 tvg-name="20:00 Internazionale x Fluminense" tvg-language="UNKNOWN" group-title="LUNEDÌ",20:00 Internazionale x Fluminense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd6.php
+#EXTINF:-1 tvg-name="20:00 Internazionale x Fluminense" tvg-language="UNKNOWN" group-title="LUNEDÌ",20:00 Internazionale x Fluminense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd7.php
+#EXTINF:-1 tvg-name="20:00 Internazionale x Fluminense" tvg-language="UNKNOWN" group-title="LUNEDÌ",20:00 Internazionale x Fluminense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd8.php
+#EXTINF:-1 tvg-name="20:00 Internazionale x Fluminense" tvg-language="UNKNOWN" group-title="LUNEDÌ",20:00 Internazionale x Fluminense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/pt/eleven1.php
+#EXTINF:-1 tvg-name="20:00 Internazionale x Fluminense" tvg-language="UNKNOWN" group-title="LUNEDÌ",20:00 Internazionale x Fluminense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br1.php
+#EXTINF:-1 tvg-name="23:00 Ludogorets x Hradec KrÃ¡lovÃ©" tvg-language="UNKNOWN" group-title="LUNEDÌ",23:00 Ludogorets x Hradec KrÃ¡lovÃ©
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/hd/hd9.php
+#EXTINF:-1 tvg-name="23:00 Paysandu x FerroviÃ¡ria" tvg-language="UNKNOWN" group-title="LUNEDÌ",23:00 Paysandu x FerroviÃ¡ria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sportzonline.si/
+#EXTVLCOPT:http-origin=https://sportzonline.si/
+https://sportzonline.si/channels/bra/br2.php
