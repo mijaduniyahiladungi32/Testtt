@@ -1,50 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Germania - Spagna 
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Germania - Spagna 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",19:30 Galatasaray - Cagliari 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
-https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",20:30 Como - Al-Ahli 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",20:30 Como - Al-Ahli 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",20:30 Como - Al-Ahli 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",00:00 Fluminense - Palmeiras 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",00:00 Ceara - Mirassol 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",00:30 Corinthians - Cruzeiro 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Santos - Internacional 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 RB Bragantino - Flamengo 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Vitoria - Sport Recife 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",22:00 Vasco da Gama - Bahia 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
@@ -53,6 +7,16 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",00:00 Juventude - Sao Paulo 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Inghilterra - Spagna 
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Inghilterra - Spagna 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",19:00 Live 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
