@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",20:00 Grosseto - Fiorentina 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a179e99c255155e0b26b4f9fcad76c5e:2982e85a600d3d4cb1a07c684a6c9c89
+https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",20:00 Fiorentina - Carrarese 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a179e99c255155e0b26b4f9fcad76c5e:2982e85a600d3d4cb1a07c684a6c9c89
+https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",22:00 Vasco da Gama - Bahia 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
