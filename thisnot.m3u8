@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",20:00 Grosseto - Fiorentina 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a179e99c255155e0b26b4f9fcad76c5e:2982e85a600d3d4cb1a07c684a6c9c89
-https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",20:00 Fiorentina - Carrarese 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a179e99c255155e0b26b4f9fcad76c5e:2982e85a600d3d4cb1a07c684a6c9c89
@@ -25,18 +21,6 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",19:00 Live 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",19:00 Live 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
-https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",19:00 Live 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
-https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FORMULA 1",12:30 Prove Libere (1) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
@@ -67,6 +51,18 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4608dc9b6164cd7b96791af91cc334c:8d4bc6537629d3f7ad5aa4e75516f6da
 https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868382/f/tsn5/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",19:00 Live 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",19:00 Live 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",19:00 Live 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CICLISMO",13:00 Live 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=46e559c2f9f645ce8d80c7fa20446bdb:597d214d66342ee042bccffeb165e750
