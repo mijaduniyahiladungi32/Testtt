@@ -1,19 +1,19 @@
 name: Hattrick Scraper
 
 on:
-  workflow_dispatch:  # Permette l'esecuzione manuale
+  workflow_dispatch:
   schedule:
-    - cron: '*/15 * * * *'  # Esegue ogni 3 ore: 0:00, 3:00, 6:00, 9:00, 12:00, 15:00, 18:00, 21:00 UTC
+    - cron: '0 */3 * * *'  # প্রতি ৩ ঘণ্টা পর
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository with custom token
+      - name: Checkout repository (using GITHUB_TOKEN)
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.ACTIONS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}  # এটি GitHub নিজে দেয়
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,8 +26,6 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run Hattrick Scraper
-        env:
-          GITHUB_WORKSPACE: ${{ github.workspace }}
         run: |
           python hattrickfunzionante.py
 
@@ -36,6 +34,8 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add hat.m3u8
-          git commit -m "Aggiornato file M3U8 con nuovi flussi" || echo "Nessun cambiamento da committare"
+          git commit -m "Updated M3U8 stream file" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
