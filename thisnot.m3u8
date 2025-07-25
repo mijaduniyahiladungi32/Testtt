@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",20:00 Fiorentina - Carrarese 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a179e99c255155e0b26b4f9fcad76c5e:2982e85a600d3d4cb1a07c684a6c9c89
-https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=f69eb90525d6519d9a3b9fa8bc1ea757:43d19236cab17a20f6f7b3706824a34c
+https://dca-co-live-gcr.gcdn.co/1963e6b6fmul71gf91qaddpdrk/tv25f/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",13:30 Liverpool - Milan 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a179e99c255155e0b26b4f9fcad76c5e:2982e85a600d3d4cb1a07c684a6c9c89
-https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=f69eb90525d6519d9a3b9fa8bc1ea757:43d19236cab17a20f6f7b3706824a34c
+https://dca-co-live-gcr.gcdn.co/1963e6b6fmul71gf91qaddpdrk/tv25f/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Kaiserslautern - Roma 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1
