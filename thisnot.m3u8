@@ -3,28 +3,52 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a179e99c255155e0b26b4f9fcad76c5e:2982e85a600d3d4cb1a07c684a6c9c89
 https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",22:00 Vasco da Gama - Bahia 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",13:30 Liverpool - Milan 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",22:00 Gremio - Botafogo 
+#KODIPROP:inputstream.adaptive.license_key=a179e99c255155e0b26b4f9fcad76c5e:2982e85a600d3d4cb1a07c684a6c9c89
+https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Kaiserslautern - Roma 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",00:00 Juventude - Sao Paulo 
+#KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Kaiserslautern - Roma 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Kaiserslautern - Roma 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",22:00 Everton - AFC Bournemouth 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",22:00 Everton - AFC Bournemouth 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",22:00 Everton - AFC Bournemouth 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",13:30 Arsenal - Newcastle 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",13:30 Arsenal - Newcastle 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",13:30 Arsenal - Newcastle 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Inghilterra - Spagna 
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Inghilterra - Spagna 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FORMULA 1",12:30 Prove Libere (1) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
-https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/032111-50/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FORMULA 1",16:30 Qualifiche Sprint Race 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
