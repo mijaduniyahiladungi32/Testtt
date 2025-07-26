@@ -19,6 +19,8 @@ https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
 https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",20:30 Avellino - Lazio 
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",22:00 Everton - AFC Bournemouth 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1
