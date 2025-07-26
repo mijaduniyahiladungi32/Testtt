@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Torino - Cremonese 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5badf780a1bc53609d96c43da5f6995d:abdfb7b2cbf7bb803fd8107d9f44e744
-https://dca-co-live-gcr.gcdn.co/khb79317lesq1cxdvbexxyvbq/tv/stream.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Kaiserslautern - Roma 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Kaiserslautern - Roma 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Kaiserslautern - Roma 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",20:30 Avellino - Lazio 
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",22:00 Everton - AFC Bournemouth 
@@ -47,12 +31,6 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FORMULA 1",16:00 Qualifiche Gara 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
-https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/032111-50/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FORMULA 1",16:00 Qualifiche Gara 
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FORMULA 1",15:00 Gara 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
@@ -63,18 +41,22 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4608dc9b6164cd7b96791af91cc334c:8d4bc6537629d3f7ad5aa4e75516f6da
 https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868382/f/tsn5/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",19:00 Live 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",21:00* Taberner - Darderi 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",19:00 Live 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",01:00 Moutet - De Minaur 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
 https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",19:00 Live 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",02:10 Fokina - Shelton 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
-https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd
+#KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",23:30* Finale 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CICLISMO",13:00 Live 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=46e559c2f9f645ce8d80c7fa20446bdb:597d214d66342ee042bccffeb165e750
