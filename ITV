@@ -1,0 +1,320 @@
+{
+    "lives": [
+        {
+            "name": "我的IPTV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "ITV_QQ",
+            "type": 0,
+            "url": "https://itv-list.myukj.cn/list/itv.m3u",
+            "ua": "d6f0e3f3e627d703",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+      "name": "MQitv",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "ext": "https://59.125.210.231:4433",
+      "jar":"./chvyo2.txt",
+      "timeout": 30,
+      "playerType": 1
+        },
+        {
+            "name": "AKTV",
+            "type": 0,
+            "url": "http://aktv.space/live.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "移动ITV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "KKK特供",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/13670/cs.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "大佬特供",
+            "type": 0,
+            "url": "http://ys.my.to/i/?T=大佬已更新",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "Everyday TV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/everydaytv.txt",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "HOCHUTV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/HOCHUTV.txt",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
+        {
+            "name": "345IPTV",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/345IPTV.txt",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 15; V2405A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36",
+				"Connection": "keep-alive",
+				"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+				"Accept-Encoding": "deflate",
+				"origin": "https://iptv807.com/",
+				"referer": "https://iptv807.com/",
+				"accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+                "X-FORWARDED-FOR": "127.0.0.1"
+            },
+            "timeout": 30,
+            "playerType": 2
+        },
+
+        {
+            "name": "4GTV",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/4GTV.txt",
+            "type": 0,
+            "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
+            "timeout": 30,
+            "playerType": 2
+        },
+        {
+            "name": "LITV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/LITV.txt",
+            "ua": "xieanqishisb/0.0.1",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
+
+
+        {
+            "name": "CCTV4K",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/CCTV4K.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
+
+
+        {
+            "name": "WEBTV中国",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "WEBTV港台",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web2.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
+
+
+        {
+            "name": "MytvSuper 1",
+            "type": 0,
+            "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+            "ua": "judy/5.2.1",
+            "timeout": 30,
+            "playerType": 2
+        },
+        {
+            "name": "MytvSuper 2",
+            "type": 0,
+            "url": "https://1.xiangcaihaoxiang.dpdns.org/tvbox1/mytv.php",
+            "ua": "okhttp/3.15",
+            "timeout": 30,
+            "playerType": 2
+        },
+
+        {
+            "name": "SMARTV 1",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/smt.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "SMARTV 2",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt.py",
+            "ext": {}
+        },
+        {
+            "name": "SMARTV 3",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_smt_proxy_001.py",
+            "ext": {}
+        },
+
+
+        {
+            "name": "LALIFEIER-IPTV",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "LALIFEIER-酒店",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "LALIFEIER-组播",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "网友IPTV",
+            "type": 0,
+            "url": "http://gm.scvip.net.cn/iptv/iptv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
+
+
+        {
+            "name": "咪咕赛事",
+            "type": 0,
+            "url": "https://www.freetv.top/mgevent.m3u",
+            "ua": "judy/5.2.1"
+        },
+        {
+            "name": "YOO体育直播",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/yoozb.py",
+            "ext": {}
+        },
+        {
+            "name": "88KQ体育直播",
+            "type": 0,
+            "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "52快直播体育",
+            "type": 0,
+            "url": "http://xg.52sw.top/play/kzb/ty.php",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "海星体育直播",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/360pai.py",
+            "ext": {}
+        },
+        {
+            "name": "BeeSport直播",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_beesport.py",
+            "ext": {},
+            "header": {
+                "Referer": "https://p.m82xg4z0cdbz7.com/"
+            }
+        },
+
+
+
+        {
+            "name": "国际IPTV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/IPTV.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "日本地波",
+            "type": 0,
+            "url": "http://88.203.211.6:50040/playlist/channels.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "加拿大地波",
+            "type": 0,
+            "url": "http://68.233.120.207:9981/playlist/channels.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+
+        {
+            "name": "PerfecttvFree",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/PerfecttvFree3.m3u",
+            "type": 0,
+            "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
+            "playerType": 2
+        },
+
+        {
+            "name": "港台TV汇[云梯]",
+            "type": 0,
+            "url": "http://docker.livednow.dpdns.org/?type=m3u",
+            "ua": "judy/5.2.1",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+        {
+            "name": "LITV[云梯]",
+            "type": 3,
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
+            "ext": {}
+        },
+
+
+
+        {
+            "name": "52火星直播",
+            "type": 0,
+            "url": "http://xg.52sw.top/play/hxds/",
+            "ua": "okhttp/3.15",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
+            "header": {
+                "Referer": "https://www.kds.tw/"
+            }
+        },
+        {
+            "name": "52OFIII[台梯]",
+            "type": 0,
+            "url": "file://tvbus/ofiii.m3u",
+            "ua": "okhttp/3.15",
+             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        }
+    ],
+    "hosts": [
+        "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+    ],
+    "rules": [
+        {
+            "name": "ofiii[台梯]",
+            "hosts": [
+                "www.ofiii.com"
+            ],
+            "script": [
+                "const play=document.getElementsByClassName(\"play_icon\")[0];const event=new MouseEvent(\"click\",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"
+            ]
+        }
+    ]
+}
