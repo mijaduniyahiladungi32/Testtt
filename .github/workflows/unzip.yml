@@ -3,39 +3,40 @@ name: Unzip and Push
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+  workflows: write  # 🟢 Needed to push workflow YAML files
+
 jobs:
   unzip_and_push:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write   # 🟢 REQUIRED TO ALLOW PUSH
-
     steps:
-      - name: Checkout repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Show before unzip
+      - name: Show files before unzip
         run: ls -la
 
-      - name: Unzip in-place (overwrite silently)
+      - name: Unzip freeiptv-master.zip into root
         run: unzip -o freeiptv-master.zip -d .
 
-      - name: Check file tree
+      - name: Show files after unzip
         run: ls -laR
 
-      - name: Setup Git
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Force add everything
+      - name: Add all files including workflow updates
         run: git add --all
 
       - name: Commit and Push
         run: |
           if git diff --cached --quiet; then
-            echo "❌ No changes to commit"
+            echo "✅ Nothing to commit"
           else
-            git commit -m "✅ Auto unzip: freeiptv-master.zip"
+            git commit -m "✅ Auto unzip and push: freeiptv-master.zip"
             git push
           fi
