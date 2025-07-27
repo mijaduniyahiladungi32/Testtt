@@ -1,4 +1,4 @@
-name: Unzip freeiptv-master.zip and Commit
+name: Unzip freeiptv-master.zip (No Push)
 
 on:
   workflow_dispatch:
@@ -7,29 +7,18 @@ on:
       - main
 
 jobs:
-  unzip_commit:
+  unzip:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Show files before unzip
+      - name: List files before unzip
         run: ls -la
 
       - name: Unzip freeiptv-master.zip
-        run: unzip freeiptv-master.zip || echo "Unzip failed or already unzipped"
+        run: unzip freeiptv-master.zip
 
-      - name: Show files after unzip
-        run: ls -laR
-
-      - name: Configure Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit and Push unzipped content
-        run: |
-          git add .
-          git commit -m "Unzipped freeiptv-master.zip" || echo "No changes to commit"
-          git push || echo "Nothing to push"
+      - name: List files after unzip
+        run: ls -laR freeiptv-master
