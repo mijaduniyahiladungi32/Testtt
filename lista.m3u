@@ -529,10 +529,14 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.click/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
@@ -817,8 +821,6 @@ https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 9
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
-#EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV",SKY SERIE
-https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV",SKY SERIE (D)
 https://thedaddy.click/stream/stream-880.php
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV",TOP CRIME
@@ -937,10 +939,10 @@ https://thedaddy.click/stream/stream-577.php
 #EXTINF:-1 tvg-id="formula1moetchandonbelgiangprace" tvg-name="Motorsport | Formula 1 : Moet & Chandon Belgian GP - Race (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Moet & Chandon Belgian GP - Race (15:00)
 https://thedaddy.click/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="2025worldaquaticschampionshipsdiving10msynchroplatformfinalmixedcompetition" tvg-name="Water Sports | 2025 World Aquatics Championships - Diving: 10m Synchro Platform Final - Mixed Competition (09:00)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/World_Aquatics_Doha_2024_logo.png/revision/latest/scale-to-width-down/1200?cb=20230816232318" group-title="Eventi Live",Water Sports | 2025 World Aquatics Championships - Diving: 10m Synchro Platform Final - Mixed Competition (09:00)
+#EXTINF:-1 tvg-id="2025worldaquaticschampionshipsdiving10msynchroplatformfinalmixedcompetition" tvg-name="Water Sports | 2025 World Aquatics Championships - Diving: 10m Synchro Platform Final - Mixed Competition (09:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/1PJrrwza6E8n76ncCjCrQ83LBMU=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/472/world-aquatics-aee3e1.png" group-title="Eventi Live",Water Sports | 2025 World Aquatics Championships - Diving: 10m Synchro Platform Final - Mixed Competition (09:00)
 https://thedaddy.click/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="swimmingworldchampionships" tvg-name="Water Sports | Swimming: World Championships (13:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230813/original/pngtree-vector-illustration-design-of-a-swimming-logo-for-a-swimming-club-featuring-a-swimmer-logo-design-template-vector-picture-image_10562897.png" group-title="Eventi Live",Water Sports | Swimming: World Championships (13:00)
+#EXTINF:-1 tvg-id="swimmingworldchampionships" tvg-name="Water Sports | Swimming: World Championships (13:00)" tvg-logo="https://logodix.com/logo/1945701.png" group-title="Eventi Live",Water Sports | Swimming: World Championships (13:00)
 https://thedaddy.click/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="swimmingworldchampionships" tvg-name="Water Sports | Swimming: World Championships (13:00)" tvg-logo="https://logodix.com/logo/1945701.png" group-title="Eventi Live",Water Sports | Swimming: World Championships (13:00)
