@@ -1,0 +1,30 @@
+name: Unzip and Commit ZIP Contents
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  unzip_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Unzip file into current folder (preserve structure)
+        run: unzip your_file.zip
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push unzipped files
+        run: |
+          git add .
+          git commit -m "Unzipped your_file.zip automatically"
+          git push
+        continue-on-error: true  # Avoid error if nothing changed
