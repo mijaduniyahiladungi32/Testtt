@@ -1,35 +1,41 @@
-name: Unzip and Push freeiptv-master.zip
+name: Unzip and Push
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   unzip_and_push:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # 🟢 REQUIRED TO ALLOW PUSH
+
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Show files before unzip
+      - name: Show before unzip
         run: ls -la
 
-      - name: Unzip freeiptv-master.zip (preserve structure into current dir)
-        run: unzip -o freeiptv-master.zip
+      - name: Unzip in-place (overwrite silently)
+        run: unzip -o freeiptv-master.zip -d .
 
-      - name: Show files after unzip
+      - name: Check file tree
         run: ls -laR
 
-      - name: Configure Git
+      - name: Setup Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and Push unzipped files
+      - name: Force add everything
+        run: git add --all
+
+      - name: Commit and Push
         run: |
-          git add .
-          git commit -m "Unzipped and committed freeiptv-master.zip contents" || echo "No changes to commit"
-          git push || echo "Nothing to push"
+          if git diff --cached --quiet; then
+            echo "❌ No changes to commit"
+          else
+            git commit -m "✅ Auto unzip: freeiptv-master.zip"
+            git push
+          fi
