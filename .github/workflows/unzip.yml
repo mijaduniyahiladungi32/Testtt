@@ -3,7 +3,7 @@ name: Unzip and Push
 on:
   workflow_dispatch:
 
-permissions:
+permissions:            # <-- এখানে টপ-লেভেলে, `on:` এর সাথে সমান লেভেলে
   contents: write
   workflows: write
 
@@ -13,18 +13,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
-      - name: Unzip file
+      - name: Unzip
         run: unzip -o freeiptv-master.zip -d .
 
-      - name: Setup git
+      - name: Git config
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Add and commit changes
+      - name: Commit changes
         run: |
           git add --all
           if git diff --cached --quiet; then
