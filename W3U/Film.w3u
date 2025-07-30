@@ -5,24 +5,24 @@
   "url": "https://raw.githubusercontent.com/simud/simud/refs/heads/main/W3U/Film.w3u",
   "stations": [
     {
-      "name": "Streamingcommunityzcash",
+      "name": "Streamingcommunityzinfo",
       "info": "Film e serie streaming",
       "online": "true",
       "image": "https://play-lh.googleusercontent.com/-BHc2mPj6oRWk0cjwMn5oYSd7rYl5RW1xn8BWdizIHBuh4cBQ6ev_EsxmA4Trt0o2jQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://streamingcommunityz.cash/",
-      "url": "https://streamingcommunityz.cash/",
+      "referer": "https://streamingcommunityz.info/",
+      "url": "https://streamingcommunityz.info/",
       "embed": "true",
       "isHost": ""
     },
     {
-      "name": "Cineblog01systems",
+      "name": "Cineblog01exchange",
       "info": "Film e serie streaming",
       "online": "true",
       "image": "https://play-lh.googleusercontent.com/-BHc2mPj6oRWk0cjwMn5oYSd7rYl5RW1xn8BWdizIHBuh4cBQ6ev_EsxmA4Trt0o2jQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://cineblog01.systems/",
-      "url": "https://cineblog01.systems/",
+      "referer": "https://cineblog01.exchange/",
+      "url": "https://cineblog01.exchange/",
       "embed": "true",
       "isHost": ""
     },
