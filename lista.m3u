@@ -497,6 +497,8 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 https://thedaddy.click/stream/stream-879.php
+#EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
+https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
@@ -527,8 +529,6 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -777,6 +777,8 @@ https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 15
 https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 16
+https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 17
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 18
@@ -915,14 +917,11 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlymonacovstorino" tvg-name="Soccer | Club Friendly : Monaco vs Torino (18:00)" tvg-logo="https://www.torinofc.it/sites/default/files/loghi-squadre/logo_torino_0.png" group-title="Eventi Live",Soccer | Club Friendly : Monaco vs Torino (18:00)
+#EXTINF:-1 tvg-id="clubfriendlymonacovstorino" tvg-name="Soccer | Club Friendly : Monaco vs Torino (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monaco_vs_Torino.png" group-title="Eventi Live",Soccer | Club Friendly : Monaco vs Torino (18:00)
 https://thedaddy.click/stream/stream-55.php
 
 #EXTINF:-1 tvg-id="clubfriendlyfenerbahçevslazio" tvg-name="Soccer | Club Friendly : Fenerbahçe vs Lazio (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fenerbahçe_vs_Lazio.png" group-title="Eventi Live",Soccer | Club Friendly : Fenerbahçe vs Lazio (19:30)
 https://thedaddy.click/stream/stream-59.php
-
-#EXTINF:-1 tvg-id="shanghaimastersround2day3" tvg-name="Snooker | Shanghai Masters Round 2 | Day 3 (08:00)" tvg-logo="https://png.pngtree.com/png-clipart/20221015/original/pngtree-countdown-label-with-limited-time-badge-3-days-left-png-image_8696062.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 3 (08:00)
-https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="shanghaimastersround2day3" tvg-name="Snooker | Shanghai Masters Round 2 | Day 3 (13:30)" tvg-logo="https://png.pngtree.com/png-clipart/20221015/original/pngtree-countdown-label-with-limited-time-badge-3-days-left-png-image_8696062.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 3 (13:30)
 https://thedaddy.click/stream/stream-879.php
