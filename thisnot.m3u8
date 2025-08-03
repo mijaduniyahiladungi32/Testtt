@@ -4,10 +4,6 @@
 #KODIPROP:inputstream.adaptive.license_key=000b4b05b463b25ac9474c6b8de9242a:108e1dc2c98ce68de84cbfd1b1715c03
 https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/032111-50/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FORMULA 1",15:00 Gara 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
-https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FORMULA 1",15:00 Gara 
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",13:00 Newcastle - Tottenham 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
