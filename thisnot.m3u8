@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",23:00 Manchester United - Everton 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",13:00 Daegu - Barcelona 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",23:00 Manchester United - Everton 
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Bayer Leverkusen - Pisa 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",23:00 Manchester United - Everton 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
-https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=3f8188ea91070593e7893ceba1e96296:085a2a1601de23d829d59e2158a821df
+https://bpm.tv.delta.nl/live/3036/3036_live.isml/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",17:00 Live 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
