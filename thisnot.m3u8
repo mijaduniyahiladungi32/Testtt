@@ -15,18 +15,6 @@ https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
 https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",19:00 Ludogorets - Ferencvaros 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2bdc52385035dbf8d604bfcbbc7c331:83e12c55225e86dfb2ab80b315b10f35
-https://bpkcdn.telekom.me/bpk-tv/arenasport_3/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",19:00 Ludogorets - Ferencvaros 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b56ffef5277f53ee897b6cd5f9f1592a:5e47506c9c41dbfe2b2c363c849d0580
-https://bpkcdn.telekom.me/bpk-tv/arenasport_3/default/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",19:00 Ludogorets - Ferencvaros 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b15f7f038925b8cb24114202aa57ef9:8e1eaab640fc730bf61981e5da56d23c
-https://bpkcdn.telekom.me/bpk-tv/arenasport_3/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Nice - Benfica 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50e2b92181a35cd9a603bf398660e5c7:0779f9325ccbb29b5926793236a1537d
@@ -43,11 +31,19 @@ https://bpkcdn.telekom.me/bpk-tv/arena_premium_2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",17:00 Live 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",01:00 Zverev - Khachanov 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
+#KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",02:30 Shelton - Fritz 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",17:00 Live 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
 https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",23:00 Live 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
