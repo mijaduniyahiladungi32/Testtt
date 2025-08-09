@@ -11,10 +11,14 @@ https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20d0de2b6dcf527db038a73773e1b38a:028f03ddef6994248ade80dad6a26ca1
 https://dca-co-live-gcr.gcdn.co/ky2pjl9svav31h3e82mxv21aa/tv/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Chelsea - Milan 
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Borussia Dortmund - Juventus 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Borussia Dortmund - Juventus 
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:30 Nacional - Gil Vicente 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
