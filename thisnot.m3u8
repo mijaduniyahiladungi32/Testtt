@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",13:45 Manchester United - Fiorentina 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa37f3ac9195addb4c923d6a1869ac3:61de1d2551183fb410780f606bc6da02
+https://dcb-rw-livedazn.cdn.netrw.it/bmib2ujfzjcq1d433582lfur8/web/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Leeds - Milan 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
