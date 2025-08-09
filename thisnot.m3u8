@@ -3,6 +3,18 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faa37f3ac9195addb4c923d6a1869ac3:61de1d2551183fb410780f606bc6da02
 https://dcb-rw-livedazn.cdn.netrw.it/bmib2ujfzjcq1d433582lfur8/web/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",15:30 Koln - Atalanta 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2d315426a465b30b5811c56524211d4:d137b94f40f91db0888687b21d5229f5
+https://dcb-rw-livedazn.cdn.netrw.it/p4inrj969jyj1xttuxjdjd8ek/web/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",15:30 Heidenheim - Parma 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2c39f4185455118b1aa1a126f663208:a38492e05cbe1f54521ffc60f8262a7e
+https://dcb-rw-livedazn.cdn.netrw.it/68rpt6sonxwa1xr7nkw18jgs1/web/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",15:30 Werder Bremen - Udinese 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac140dec2af85e2b9858344123cef957:912462811088014d0ca1a3e060799719
+https://dcb-rw-livedazn.cdn.netrw.it/1ug1gi5w0jkzq16y1pb8vp7qoz/web/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Leeds - Milan 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
