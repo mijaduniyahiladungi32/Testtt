@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",13:45 Manchester United - Fiorentina 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faa37f3ac9195addb4c923d6a1869ac3:61de1d2551183fb410780f606bc6da02
-https://dcb-rw-livedazn.cdn.netrw.it/bmib2ujfzjcq1d433582lfur8/web/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",15:30 Koln - Atalanta 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2d315426a465b30b5811c56524211d4:d137b94f40f91db0888687b21d5229f5
@@ -15,6 +11,18 @@ https://dcb-rw-livedazn.cdn.netrw.it/68rpt6sonxwa1xr7nkw18jgs1/web/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac140dec2af85e2b9858344123cef957:912462811088014d0ca1a3e060799719
 https://dcb-rw-livedazn.cdn.netrw.it/1ug1gi5w0jkzq16y1pb8vp7qoz/web/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Everton - Roma 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23d0211e050453feaf23a2fe744c5050:7f0e40a4489c1164ae97a8b9d3a19307
+https://dcb-rw-livedazn.cdn.netrw.it/vn0i8tg52w1c1cqt4sxjt51e9/web/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Burnley - Lazio 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0cbe01bd985ff2bbc7f654c6d8284a:8e06defbdbdc3d1db31eaf90ba31830e
+https://dcb-rw-livedazn.cdn.netrw.it/622zr6fku3jo158pb5jwaez7s/tv/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Leeds - Milan 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96c3de47515e52a497190dabdde2c840:0ae37df2870e3b71515a475e761d2833
+https://dca-rw-livedazn.cdn.netrw.it/12c2tuvao849fzpv21dt6mm0u/tv/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Leeds - Milan 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
