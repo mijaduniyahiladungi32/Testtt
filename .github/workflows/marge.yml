@@ -2,7 +2,7 @@ name: Clone & Merge M3U with group-title per file
 
 on:
   schedule:
-    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টায়
+    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টায় রান
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,8 @@ jobs:
         mkdir -p merged_tmp
         echo -n > merged_tmp/merged.m3u
 
-        find IPTV-Scraper-Zilla -type f -name "*.m3u" ! -path "*/merged_tmp/*" ! -name "merged.m3u" | while read file; do
+        # শুধু ক্লোন করা ফোল্ডারের .m3u ফাইল মার্জ করবে, merged.m3u বাদ দিবে
+        find IPTV-Scraper-Zilla -type f -name "*.m3u" ! -name "merged.m3u" | while read file; do
           base=$(basename "$file" .m3u)
           awk -v grp="$base" '
             /^#EXTINF/ {
