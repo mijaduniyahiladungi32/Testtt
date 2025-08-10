@@ -1,28 +1,29 @@
-name: Merge M3U with group-title per file
+name: Clone & Merge M3U with group-title per file
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টায়
   workflow_dispatch:
 
 jobs:
-  merge-m3u:
+  clone-and-merge:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout target repo
+    - name: Checkout this workflow repo
       uses: actions/checkout@v3
-      with:
-        repository: abusaeeidx/IPTV-Scraper-Zilla
-        token: ${{ secrets.GITHUB_TOKEN }}
-        persist-credentials: false
 
-    - name: Merge all .m3u with group-title set
+    - name: Clone IPTV-Scraper-Zilla repo
+      run: |
+        git clone https://github.com/abusaeeidx/IPTV-Scraper-Zilla.git
+
+    - name: Merge all .m3u with group-title set from cloned repo
       run: |
         mkdir -p merged_tmp
         echo -n > merged_tmp/merged.m3u
 
-        find . -type f -name "*.m3u" ! -path "./merged_tmp/*" ! -name "merged.m3u" | while read file; do
+        # সব m3u ফাইল ক্লোন করা ফোল্ডারে খুঁজবে
+        find IPTV-Scraper-Zilla -type f -name "*.m3u" ! -path "*/merged_tmp/*" ! -name "merged.m3u" | while read file; do
           base=$(basename "$file" .m3u)
           awk -v grp="$base" '
             /^#EXTINF/ {
@@ -44,14 +45,10 @@ jobs:
         mv merged_tmp/merged.m3u merged.m3u
         rm -rf merged_tmp
 
-    - name: Commit and push merged playlist
+    - name: Commit and push merged playlist to this repo
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git add merged.m3u
         if ! git diff --cached --quiet; then
-          git commit -m "Auto-merged m3u playlists with group-title $(date -u +"%Y-%m-%d %H:%M UTC")"
-          git push
-        else
-          echo "No changes to commit"
-        fi
+          git commit -m "Auto-merged m3u playlists from IPTV-Scraper-Zilla $(date
