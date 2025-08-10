@@ -1,55 +1,57 @@
-name: Merge all M3U files
+name: Merge M3U with group-title per file
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "*/20 * * * *"   # প্রতি ২০ মিনিটে রান করবে
+    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টায়
+  workflow_dispatch:
 
 jobs:
-  merge:
+  merge-m3u:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+    - name: Checkout repo
+      uses: actions/checkout@v3
 
-      - name: Merge all .m3u files
-        run: |
-          mkdir -p merged_tmp
-          > merged_tmp/merged.m3u
+    - name: Merge all .m3u with group-title set
+      run: |
+        mkdir -p merged_tmp
+        # ফাইল নতুন করে বানিয়ে দিবো আগে
+        echo -n > merged_tmp/merged.m3u
 
-          # রিপোতে যত .m3u ফাইল আছে খুঁজে বের করা
-          find . -type f -name "*.m3u" | while read file; do
-            base=$(basename "$file" .m3u)
-            # প্রতিটি ফাইল থেকে channel lines নিয়ে group-title=filename সেট করা
-            awk -v grp="$base" '
-              /^#EXTINF/ {
-                if ($0 ~ /group-title="/) {
-                  sub(/group-title="[^"]*"/, "group-title=\"" grp "\"")
-                } else {
-                  sub(/#EXTINF:/, "#EXTINF:-1 group-title=\"" grp "\",")
-                }
-                print
-                getline
-                print
-                next
+        find . -type f -name "*.m3u" ! -path "./merged_tmp/*" ! -name "merged.m3u" | while read file; do
+          base=$(basename "$file" .m3u)
+          awk -v grp="$base" '
+            /^#EXTINF/ {
+              if ($0 ~ /group-title="/) {
+                sub(/group-title="[^"]*"/, "group-title=\"" grp "\"")
+              } else {
+                sub(/#EXTINF:/, "#EXTINF:-1 group-title=\"" grp "\",")
               }
-              { print }
-            ' "$file" >> merged_tmp/merged.m3u
-          done
+              print
+              getline
+              print
+              next
+            }
+            { print }
+          ' "$file" >> merged_tmp/merged.m3u
+        done
 
-          # মার্জ ফাইলের শুরুর দিকে #EXTM3U হেডার যোগ করা
-          sed -i '1i #EXTM3U' merged_tmp/merged.m3u
+        # ফাইলের শুরুতে #EXTM3U হেডার যোগ
+        sed -i '1i #EXTM3U' merged_tmp/merged.m3u
 
-          # মার্জ ফাইল মূল ডিরেক্টরিতে রাখা
-          mv merged_tmp/merged.m3u merged.m3u
-          rm -rf merged_tmp
+        # merged ফাইল রুটে নিয়ে আসা
+        mv merged_tmp/merged.m3u merged.m3u
+        rm -rf merged_tmp
 
-      - name: Commit and push merged file
-        env:
-          GIT_USER: ${{ secrets.GIT_USER }}
-          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-        run: |
-          git config user.name "$GIT_USER"
-          git config user.email "$GIT_EMAIL"
-          git add merged.m3u
-          git commit -m "Auto merged playlists: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes to commit"
+    - name: Commit and push merged playlist
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add merged.m3u
+        if ! git diff --cached --quiet; then
+          git commit -m "Auto-merged m3u playlists with group-title $(date -u +"%Y-%m-%d %H:%M UTC")"
           git push
+        else
+          echo "No changes to commit"
+        fi
