@@ -20,12 +20,12 @@ jobs:
     - name: Merge all .m3u with group-title set from cloned repo
       run: |
         mkdir -p merged_tmp
-        echo -n > merged_tmp/merged.m3u
+        echo "#EXTM3U" > merged_tmp/merged.m3u
 
-        # শুধু ক্লোন করা ফোল্ডারের .m3u ফাইল মার্জ করবে, merged.m3u বাদ দিবে
         find IPTV-Scraper-Zilla -type f -name "*.m3u" ! -name "merged.m3u" | while read file; do
           base=$(basename "$file" .m3u)
           awk -v grp="$base" '
+            /^#EXTM3U/ { next }
             /^#EXTINF/ {
               if ($0 ~ /group-title="/) {
                 sub(/group-title="[^"]*"/, "group-title=\"" grp "\"")
@@ -41,7 +41,6 @@ jobs:
           ' "$file" >> merged_tmp/merged.m3u
         done
 
-        sed -i '1i #EXTM3U' merged_tmp/merged.m3u
         mv merged_tmp/merged.m3u merged.m3u
         rm -rf merged_tmp
 
