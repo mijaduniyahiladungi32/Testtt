@@ -2,7 +2,7 @@ name: Merge M3U with group-title per file
 
 on:
   schedule:
-    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টায়
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,13 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
+    - name: Checkout target repo
       uses: actions/checkout@v3
+      with:
+        repository: abusaeeidx/IPTV-Scraper-Zilla
+        token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: false
 
     - name: Merge all .m3u with group-title set
       run: |
         mkdir -p merged_tmp
-        # ফাইল নতুন করে বানিয়ে দিবো আগে
         echo -n > merged_tmp/merged.m3u
 
         find . -type f -name "*.m3u" ! -path "./merged_tmp/*" ! -name "merged.m3u" | while read file; do
@@ -37,10 +40,7 @@ jobs:
           ' "$file" >> merged_tmp/merged.m3u
         done
 
-        # ফাইলের শুরুতে #EXTM3U হেডার যোগ
         sed -i '1i #EXTM3U' merged_tmp/merged.m3u
-
-        # merged ফাইল রুটে নিয়ে আসা
         mv merged_tmp/merged.m3u merged.m3u
         rm -rf merged_tmp
 
