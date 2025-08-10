@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Barcellona - Como 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=325daf9ae36d550da1a42c645dc110dd:085a5a1b5595f7492d804dab2c406287
+https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Barcellona - Como 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47e3d769ecc65009b31260579a2f3362:0577b31398c457270ba9a8af216c7b0c
+https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Barcellona - Como 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0044da7266da5474a7ddc63b817ec3af:012ebc9d5499038583b511459151435e
+https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Monza - Inter 
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:30 Juventus - Juventus Next Gen 
