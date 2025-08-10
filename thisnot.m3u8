@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Chelsea - Milan 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20d0de2b6dcf527db038a73773e1b38a:028f03ddef6994248ade80dad6a26ca1
-https://dca-rw-livedazn.cdn.netrw.it/ky2pjl9svav31h3e82mxv21aa/tv/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=c7ca854232b15c20a37d09ffcf4a69b5:0a7dddf52e3658568b06e419cc031b24
+https://dca-rw-livedazn.cdn.netrw.it/gmprx26tlfe21azgut38562qt/tv/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Chelsea - Milan 
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",16:00 Chelsea - Milan 
