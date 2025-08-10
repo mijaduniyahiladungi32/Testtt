@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-id="TVMaldivesbkp" tvg-name="Hilay TV Info" tvg-logo="https://8upload.com/image/6851513ea9829/hilaytvinfo.png" group-title="hilaytv",Hilay TV Info
 https://maldivesn.net/hilaytv/hilaytv
 
@@ -4149,7 +4148,6 @@ https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 # 📌 It aggregates publicly available data for informational purposes only.
 # 📩 For any issues or concerns, please contact the developer.
 #==================================
-#EXTM3U
 #EXTINF:-1 tvg-id="billiard-tv" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/poster_20210622_195953.png" group-title="distrotv",Billiard TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8
 #EXTINF:-1 tvg-id="bloomberg-television" tvg-logo="https://a.jsrdn.com/hls/22938/bloomberg-television/poster_20210205_222905.jpg" group-title="distrotv",Bloomberg Television
@@ -5137,7 +5135,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="stingray-flashback-70s" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-flashback-70s/poster_20200717_232723.jpg" group-title="distrotv",Stingray Flashback 70s
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-flashback-70s/master.m3u8
 
-#EXTM3U
 # By Abu SAEEID X Noob
 # Scrapped by @abusaeeidx
 # Scrapped on 2025-08-10 18:53:21
@@ -6601,7 +6598,6 @@ https://yuppirecloriginvt.akamaized.net/110923/smil:tsatvidya.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-Space_Series_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8?hdnts=st%3D1754852083~exp%3D1754873683~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Space_Series_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F18d329ef-d478-413c-b68f-c123494ac434%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.225.25.48_yuppfast_2_channel_276_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.225.25.48_yuppfast_2_channel_276_-1~hmac%3D652df2e3392e714ac6de4849a8fabd287bbfd0c8f02afcfcf5f9f81e6eee5c6d
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CricHD", Star Sports 1
 https://d5.merichunidya.com:1686/hls/star1in.m3u8?md5=1BII4blnc-1FjSXjNfisRw&expires=1754860407
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" group-title="CricHD", Star Sports 1 Hindi
@@ -6876,7 +6872,6 @@ https://boo.lolcalhost.ru:7059/hls/viaplaysp1.m3u8?md6=zWMc4MlBhoRtaJjIjwge6g&ex
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
 https://boo.lolcalhost.ru:7059/hls/viaplaysp2.m3u8?md6=TQtY8AEGDFe-crl7Pp7YIQ&expires=1754857544|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
-#EXTM3U
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="TVPass",A&E US Eastern Feed SD
 https://tvpass.org/live/AEEast/sd
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="TVPass",A&E US Eastern Feed HD
@@ -7673,7 +7668,6 @@ https://tvpass.org/live/WNBA04/hd
 https://tvpass.org/live/WNBA05/sd
 #EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Connecticut Sun @ Las Vegas Aces (08/10 9:00 Pm Et) Hd" tvg-logo="" group-title="TVPass",Connecticut Sun @ Las Vegas Aces (08/10 9:00 Pm Et) Hd
 https://tvpass.org/live/WNBA05/hd
-#EXTM3U url-tvg="https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz"
 # Last Updated: 2025-08-10 19:28:42 UTC
 
 
