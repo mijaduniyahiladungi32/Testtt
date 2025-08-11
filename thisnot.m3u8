@@ -1,30 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Barcellona - Como 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:45 Porto - Vitoria Guimaraes 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=325daf9ae36d550da1a42c645dc110dd:085a5a1b5595f7492d804dab2c406287
-https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Barcellona - Como 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47e3d769ecc65009b31260579a2f3362:0577b31398c457270ba9a8af216c7b0c
-https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Barcellona - Como 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0044da7266da5474a7ddc63b817ec3af:012ebc9d5499038583b511459151435e
-https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd
+#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Grasshopper - Bayern Monaco 
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Monza - Inter 
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:30 Juventus - Juventus Next Gen 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:30 Sporting Braga - Tondela 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:45 Porto - Vitoria Guimaraes 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
 #EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TNT_Sports_Logo_2023.svg/800px-TNT_Sports_Logo_2023.svg.png" group-title="CALCIO",21:00 PSG - Tottenham 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f
