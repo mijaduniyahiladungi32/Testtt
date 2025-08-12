@@ -109,3 +109,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOTOMONDIALE",14:00 MotoGP - Gara 
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOTOMONDIALE",14:00 MotoGP - Gara 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+https://global-cdn2.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
