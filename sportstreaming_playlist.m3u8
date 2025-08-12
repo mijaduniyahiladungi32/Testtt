@@ -19,3 +19,23 @@ https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3177.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
 https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3178.m3u8
+#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png", Genoa   LecceSerie A   Giornata 1Sabato 23 Agosto ore 18:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3164.m3u8
+#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live2.png", Sassuolo   NapoliSerie A   Giornata 1Sabato 23 Agosto ore 18:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3164.m3u8
+#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live3.png", Milan   CremoneseSerie A   Giornata 1Sabato 23 Agosto ore 20:45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3164.m3u8
+#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live4.png", Roma   BolognaSerie A   Giornata 1Sabato 23 Agosto ore 20:45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3164.m3u8
+#EXTINF:-1 group-title="Eventi" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live5.png", Cagliari   FiorentinaSerie A   Giornata 1Domenica 24 Agosto ore 18:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://www.sportstreaming.net/
+https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3164.m3u8
