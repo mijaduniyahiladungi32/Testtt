@@ -1,10 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:45 Porto - Vitoria Guimaraes 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",19:00 Fenerbahce - Feyenoord 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Grasshopper - Bayern Monaco 
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",19:00 WSG Tirol - Real Madrid 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd0fc341d44b5ccdaa2d03f0bedb5ddb:9724f09ead510de82908d9b44c2d8504
+https://tvup01.edge.milloh-cs.com/la1-neutra/la1-neutra.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",19:00 WSG Tirol - Real Madrid 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25c3263f252d54dead2ace331b9c72c9:27b1e0c3f5d3398d2283219bb1994f48
+https://tvup01.edge.milloh-cs.com/la1-neutra/la1-neutra.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",19:00 WSG Tirol - Real Madrid 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0920e7ce7f453d8ad001e68ceb0645d:1580d663bc0628337f597fe135643b51
+https://tvup01.edge.milloh-cs.com/la1-neutra/la1-neutra.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Monza - Inter 
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:30 Juventus - Juventus Next Gen 
@@ -19,6 +31,10 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 PSG - Tottenham 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",17:00 Live 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
