@@ -20,7 +20,7 @@ https://tvup01.edge.milloh-cs.com/la1-neutra/la1-neutra.mpd
 #KODIPROP:inputstream.adaptive.license_key=c0920e7ce7f453d8ad001e68ceb0645d:1580d663bc0628337f597fe135643b51
 https://tvup01.edge.milloh-cs.com/la1-neutra/la1-neutra.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Monza - Inter 
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:30 Juventus - Juventus Next Gen 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
