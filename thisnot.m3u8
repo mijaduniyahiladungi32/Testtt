@@ -35,6 +35,46 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",00:00 Fortaleza - Velez Sarsfield 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Atletico Nacional - Sao Paulo 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Penarol - Racing Club 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Penarol - Racing Club 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Penarol - Racing Club 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",00:00 Cerro Porteno - Estudiantes 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Flamengo - Internacional 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",00:00 Botafogo - LDU Quito 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Libertad - River Plate 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Universitario - Palmeiras 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",17:00 Live 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
