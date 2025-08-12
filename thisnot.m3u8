@@ -3,8 +3,10 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Grasshopper - Bayern Monaco 
-https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Benfica - Nizza 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67e9cde786f045268825148f7eb9557e:6d505947ad7c113b1cc901e2175b123c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$174/index.mpd/Manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",19:00 WSG Tirol - Real Madrid 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd0fc341d44b5ccdaa2d03f0bedb5ddb:9724f09ead510de82908d9b44c2d8504
