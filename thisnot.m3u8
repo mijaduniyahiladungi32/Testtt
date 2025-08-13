@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:30 Juventus - Juventus Next Gen 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 PSG - Tottenham 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
-https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b98b7e0f2806332ab627c0177e5708f6:62240705d69fbf3b6850bfdfab2a787a
+https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/0c5c7fb388c649f78a1be36fc4bd365e/dash_long_cenc10_ucl1_hd_index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 PSG - Tottenham 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=770cf796cbf53210a7d7c414ddceeb9a:903dea32932e10161034e0fdb8b2fba8
+https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/0c5c7fb388c649f78a1be36fc4bd365e/dash_long_cenc10_ucl1_hd_index.mpd
 #EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TNT_Sports_Logo_2023.svg/800px-TNT_Sports_Logo_2023.svg.png" group-title="CALCIO",21:00 PSG - Tottenham 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f
