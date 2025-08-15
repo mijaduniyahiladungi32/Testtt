@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",00:00 Botafogo - LDU Quito 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Libertad - River Plate 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",02:30 Universitario - Palmeiras 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d012322fb2db4c929a66417c1fa40b00:eac803603f1b2e4658e0f9da317fd05b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Empoli - Reggiana 
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest_hr.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",18:00 Sassuolo - Catanzaro 
@@ -59,10 +47,6 @@ https://bpm.tv.delta.nl/live/3037/3037_live.isml/playlist.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
 https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TENNIS",23:00 Live 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOTOMONDIALE",10:45 MotoGP - Libere 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f
