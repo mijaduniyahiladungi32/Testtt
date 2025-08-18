@@ -246,6 +246,8 @@ https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
+https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
 https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (D)
 https://thedaddy.click/stream/stream-881.php
@@ -501,6 +503,8 @@ https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
 https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/san-marino-rtv-sport-20211731580347.logowik.com.webp" group-title="Sport",RTV SPORT
+https://vavoo.to/vavoo-iptv/play/134178901c516be5767e9
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24
@@ -523,6 +527,8 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -645,6 +651,8 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
+#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
+https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -665,6 +673,8 @@ https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec
 https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
 https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
 #EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
@@ -911,20 +921,20 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="franceligue1nantesvspsg" tvg-name="Soccer | France - Ligue 1 : Nantes vs PSG (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nantes_vs_PSG.png" group-title="Eventi Live",Soccer | France - Ligue 1 : Nantes vs PSG (20:45)
-https://thedaddy.click/stream/stream-460.php
+#EXTINF:-1 tvg-id="coppaitaliahellasveronavsaudacecerignola" tvg-name="Soccer | Coppa Italia : Hellas Verona vs Audace Cerignola (18:00)" tvg-logo="https://logodetimes.com/times/hellas-verona-football-club/hellas-verona-football-club-4096.png" group-title="Eventi Live",Soccer | Coppa Italia : Hellas Verona vs Audace Cerignola (18:00)
+https://thedaddy.click/stream/stream-5.php
 
-#EXTINF:-1 tvg-id="coppaitaliacesenavspisa" tvg-name="Soccer | Coppa Italia : Cesena vs Pisa (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cesena_vs_Pisa.png" group-title="Eventi Live",Soccer | Coppa Italia : Cesena vs Pisa (20:45)
-https://thedaddy.click/stream/stream-16.php
+#EXTINF:-1 tvg-id="coppaitaliaspeziavssampdoria" tvg-name="Soccer | Coppa Italia : Spezia vs Sampdoria (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Spezia_vs_Sampdoria.png" group-title="Eventi Live",Soccer | Coppa Italia : Spezia vs Sampdoria (18:30)
+https://thedaddy.click/stream/stream-6.php
 
-#EXTINF:-1 tvg-id="italycoppaitaliaserieccrotonevscatania" tvg-name="Soccer | Italy - Coppa Italia Serie C : Crotone vs Catania (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crotone_vs_Catania.png" group-title="Eventi Live",Soccer | Italy - Coppa Italia Serie C : Crotone vs Catania (21:00)
-https://thedaddy.click/stream/stream-110.php
+#EXTINF:-1 tvg-id="coppaitaliaudinesevscarrarese" tvg-name="Soccer | Coppa Italia : Udinese vs Carrarese (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Udinese_vs_Carrarese.png" group-title="Eventi Live",Soccer | Coppa Italia : Udinese vs Carrarese (20:45)
+https://thedaddy.click/stream/stream-5.php
 
-#EXTINF:-1 tvg-id="italycoppaitaliaserieccrotonevscatania" tvg-name="Soccer | Italy - Coppa Italia Serie C : Crotone vs Catania (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crotone_vs_Catania.png" group-title="Eventi Live",Soccer | Italy - Coppa Italia Serie C : Crotone vs Catania (21:00)
-https://thedaddy.click/stream/stream-461.php
+#EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvseverton" tvg-name="Soccer | England - Premier League : Leeds United vs Everton (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leeds United_vs_Everton.png" group-title="Eventi Live",Soccer | England - Premier League : Leeds United vs Everton (21:00)
+https://thedaddy.click/stream/stream-870.php
 
-#EXTINF:-1 tvg-id="coppaitaliamilanvsbari1908" tvg-name="Soccer | Coppa Italia : Milan vs Bari 1908 (21:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Bari 1908.png" group-title="Eventi Live",Soccer | Coppa Italia : Milan vs Bari 1908 (21:15)
-https://thedaddy.click/stream/stream-3.php
+#EXTINF:-1 tvg-id="coppaitaliatorinovsmodena" tvg-name="Soccer | Coppa Italia : Torino vs Modena (21:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Modena.png" group-title="Eventi Live",Soccer | Coppa Italia : Torino vs Modena (21:15)
+https://thedaddy.click/stream/stream-6.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
