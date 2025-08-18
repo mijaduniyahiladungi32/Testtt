@@ -1,496 +1,531 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1061474" tvg-name="Superman" tvg-logo="https://image.tmdb.org/t/p/w500/mZtiFCSqqyT9q0B07pvGQIZRG62.jpg" group-title="Azione",Superman
+#EXTINF:-1 tvg-id="755898" tvg-name="La guerra dei mondi" tvg-logo="https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg" group-title="Film al Cinema",La guerra dei mondi
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/332875?b=1&ab=1&token=96d70d63480d2fdc6e30b46979e96623&expires=1760690118&h=1&lang=it
-#EXTINF:-1 tvg-id="1234821" tvg-name="Jurassic World - La rinascita" tvg-logo="https://image.tmdb.org/t/p/w500/tgYaEduCd3wn9BhxiQiG3Se4PjD.jpg" group-title="Azione",Jurassic World - La rinascita
+https://vixcloud.co/playlist/331772?ub=1&token=0e3bfcf1d6a3fd51f6b8adbef58fdb1c&expires=1760691469&h=1&lang=it
+#EXTINF:-1 tvg-id="1061474" tvg-name="Superman" tvg-logo="https://image.tmdb.org/t/p/w500/mZtiFCSqqyT9q0B07pvGQIZRG62.jpg" group-title="Film al Cinema",Superman
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/332467?ub=1&token=8873664a69dd44d325d6f28d82705d6d&expires=1760690119&h=1&lang=it
-#EXTINF:-1 tvg-id="1195631" tvg-name="Guglielmo Tell" tvg-logo="https://image.tmdb.org/t/p/w500/yVXt0ZgONgooZrpD7PBIcHp0TqB.jpg" group-title="Azione",Guglielmo Tell
+https://vixcloud.co/playlist/332875?b=1&ab=1&token=ecd0e5d3ea0446901bf1b266272c2505&expires=1760691470&h=1&lang=it
+#EXTINF:-1 tvg-id="1234821" tvg-name="Jurassic World - La rinascita" tvg-logo="https://image.tmdb.org/t/p/w500/tgYaEduCd3wn9BhxiQiG3Se4PjD.jpg" group-title="Film al Cinema",Jurassic World - La rinascita
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/328009?ub=1&token=43af2fdee773eca3c708c4ec0c8dd0d0&expires=1760690141&h=1&lang=it
+https://vixcloud.co/playlist/332467?ub=1&token=56ba6977e9f7dbf04c75c02ea8390de3&expires=1760691471&h=1&lang=it
+#EXTINF:-1 tvg-id="1195631" tvg-name="Guglielmo Tell" tvg-logo="https://image.tmdb.org/t/p/w500/yVXt0ZgONgooZrpD7PBIcHp0TqB.jpg" group-title="Film al Cinema",Guglielmo Tell
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/328009?ub=1&token=02b28802065913c2d1699c12fbed235d&expires=1760691494&h=1&lang=it
+#EXTINF:-1 tvg-id="1106289" tvg-name="Il blindato dell’amore" tvg-logo="https://image.tmdb.org/t/p/w500/gpAhximhB3gS1CtCjxxuGqTC4S7.jpg" group-title="Film al Cinema",Il blindato dell’amore
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/332198?ub=1&token=1f74c626ab1706958a314d932313c629&expires=1760691516&h=1&lang=it
+#EXTINF:-1 tvg-id="575265" tvg-name="Mission: Impossible - The Final Reckoning" tvg-logo="https://image.tmdb.org/t/p/w500/a8Yg38L5JY7QtEXuLlfIWFZfxhD.jpg" group-title="Azione",Mission: Impossible - The Final Reckoning
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/320094?ub=1&token=639b99d27a2dca23c0f4ce5da3af2d76&expires=1760691539&h=1&lang=it
 #EXTINF:-1 tvg-id="1087192" tvg-name="Dragon Trainer" tvg-logo="https://image.tmdb.org/t/p/w500/vIClAEbveMKqd38upqsjjuCBCpj.jpg" group-title="Azione",Dragon Trainer
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/329461?ub=1&token=93bca9582e914340ae373e914d5ed1ae&expires=1760690164&h=1&lang=it
-#EXTINF:-1 tvg-id="1106289" tvg-name="Il blindato dell’amore" tvg-logo="https://image.tmdb.org/t/p/w500/gpAhximhB3gS1CtCjxxuGqTC4S7.jpg" group-title="Azione",Il blindato dell’amore
+https://vixcloud.co/playlist/329461?ub=1&token=316139871f7f14f3b5180b90e1c1197f&expires=1760691540&h=1&lang=it
+#EXTINF:-1 tvg-id="1071585" tvg-name="M3GAN 2.0" tvg-logo="https://image.tmdb.org/t/p/w500/qGn4glNC6UqrkxryP8MWyaJLEcR.jpg" group-title="Azione",M3GAN 2.0
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/332198?ub=1&token=ec41124064f23800bd53e0eb34b7f2aa&expires=1760690176&h=1&lang=it
-#EXTINF:-1 tvg-id="575265" tvg-name="Mission: Impossible - The Final Reckoning" tvg-logo="https://image.tmdb.org/t/p/w500/a8Yg38L5JY7QtEXuLlfIWFZfxhD.jpg" group-title="Avventura",Mission: Impossible - The Final Reckoning
+https://vixcloud.co/playlist/332492?ub=1&token=d155d879881177abb3fdaa2aa5495d63&expires=1760691584&h=1&lang=it
+#EXTINF:-1 tvg-id="803796" tvg-name="KPop Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w500/43c1efKzA1kigNzY0HBzeoXp8LR.jpg" group-title="Azione",KPop Demon Hunters
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/320094?ub=1&token=63c56f7b104fa7e256dbc1197618b0a8&expires=1760690177&h=1&lang=it
+https://vixcloud.co/playlist/325326?ub=1&token=ef416fce7d517d0bc45d2698e19a44f5&expires=1760691585&h=1&lang=it
+#EXTINF:-1 tvg-id="1011477" tvg-name="Karate Kid: Legends" tvg-logo="https://image.tmdb.org/t/p/w500/s89EiUFcBVNW5a66AyMtQekC8Dg.jpg" group-title="Azione",Karate Kid: Legends
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/327853?ub=1&token=09e3f541ebe7f099ccee17e707abd9c7&expires=1760691586&h=1&lang=it
 #EXTINF:-1 tvg-id="617126" tvg-name="I Fantastici Quattro - Gli inizi" tvg-logo="https://image.tmdb.org/t/p/w500/lnatQ2ZgpTJet7jqjGPRo2h9Xuw.jpg" group-title="Avventura",I Fantastici Quattro - Gli inizi
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/331915?ub=1&token=dcf6ae77abecbfc9daf75664f2d6e650&expires=1760690189&h=1&lang=it
+https://vixcloud.co/playlist/331915?ub=1&token=e9d2d89ee77a02586186ec09554998b0&expires=1760691587&h=1&lang=it
 #EXTINF:-1 tvg-id="552524" tvg-name="Lilo & Stitch" tvg-logo="https://image.tmdb.org/t/p/w500/pPzClGa4jUxEYcRGQ2LEcK4FRQY.jpg" group-title="Avventura",Lilo & Stitch
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/329823?ub=1&token=3ea34f61c51006ec414ac8b35898f719&expires=1760690189&h=1&lang=it
-#EXTINF:-1 tvg-id="1011477" tvg-name="Karate Kid: Legends" tvg-logo="https://image.tmdb.org/t/p/w500/s89EiUFcBVNW5a66AyMtQekC8Dg.jpg" group-title="Avventura",Karate Kid: Legends
-#EXTVLCOPT:http-referrer=https://vixsrc.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/327853?ub=1&token=1d2ec40abad67d5a9505d6d2511f08a3&expires=1760690190&h=1&lang=it
+https://vixcloud.co/playlist/329823?ub=1&token=30af31529e9289883800bda8802e7c98&expires=1760691588&h=1&lang=it
 #EXTINF:-1 tvg-id="7451" tvg-name="xXx" tvg-logo="https://image.tmdb.org/t/p/w500/Add4kbQS39y5pgUOGZDC38Q146W.jpg" group-title="Avventura",xXx
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/267824?ub=1&token=e9672b9a3c9a4ddad43e478a91bd36bd&expires=1760690191&h=1&lang=it
+https://vixcloud.co/playlist/267824?ub=1&token=e71a25b869c718455b5338022a7e2794&expires=1760691589&h=1&lang=it
 #EXTINF:-1 tvg-id="986056" tvg-name="Thunderbolts*" tvg-logo="https://image.tmdb.org/t/p/w500/k6YWCtbVqdSClcvG4uSPMAeUL4G.jpg" group-title="Avventura",Thunderbolts*
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/326162?ub=1&token=3b5a4814230b87969d8b7fcb128d4a00&expires=1760690192&h=1&lang=it
+https://vixcloud.co/playlist/326162?ub=1&token=be779b0daeb7909d86d926d8c82f924d&expires=1760691590&h=1&lang=it
 #EXTINF:-1 tvg-id="950387" tvg-name="Un film Minecraft" tvg-logo="https://image.tmdb.org/t/p/w500/myoxQxrAEZICqe3DRyJUsiE5lWS.jpg" group-title="Avventura",Un film Minecraft
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/317182?ub=1&token=2c2c58d7f8935faa0ad680da7a5ee195&expires=1760690215&h=1&lang=it
-#EXTINF:-1 tvg-id="803796" tvg-name="KPop Demon Hunters" tvg-logo="https://image.tmdb.org/t/p/w500/43c1efKzA1kigNzY0HBzeoXp8LR.jpg" group-title="Animazione",KPop Demon Hunters
+https://vixcloud.co/playlist/317182?ub=1&token=4dc906f25577755414ecaf3332c5c5de&expires=1760691612&h=1&lang=it
+#EXTINF:-1 tvg-id="693134" tvg-name="Dune - Parte due" tvg-logo="https://image.tmdb.org/t/p/w500/uotDvtfnVndxtAvmvNVamqwJKiG.jpg" group-title="Avventura",Dune - Parte due
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/325326?ub=1&token=2016e81bf8a8ccd86812b1abed2f957a&expires=1760690226&h=1&lang=it
+https://vixcloud.co/playlist/221474?ub=1&token=70da81768f3a688a7ae0d003cf360934&expires=1760691624&h=1&lang=it
+#EXTINF:-1 tvg-id="1241982" tvg-name="Oceania 2" tvg-logo="https://image.tmdb.org/t/p/w500/qdNQzzq4QnQDji90plwntjbuEGW.jpg" group-title="Avventura",Oceania 2
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/282441?ub=1&token=ae7b2b305e44d3110e73550d28793709&expires=1760691625&h=1&lang=it
 #EXTINF:-1 tvg-id="537921" tvg-name="Fixed - Un'ultima avventura" tvg-logo="https://image.tmdb.org/t/p/w500/nMwNky113cHewKmbdwo8cxJkzoy.jpg" group-title="Animazione",Fixed - Un'ultima avventura
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/332792?ub=1&token=c78ca26737cf5ace8bb0da4aa94066ce&expires=1760690260&h=1&lang=it
-#EXTINF:-1 tvg-id="1241982" tvg-name="Oceania 2" tvg-logo="https://image.tmdb.org/t/p/w500/qdNQzzq4QnQDji90plwntjbuEGW.jpg" group-title="Animazione",Oceania 2
-#EXTVLCOPT:http-referrer=https://vixsrc.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/282441?ub=1&token=694784740cf2778511a8b3ed4c736b29&expires=1760690272&h=1&lang=it
+https://vixcloud.co/playlist/332792?ub=1&token=57a641ed9998caba33e0cb1ca7797f93&expires=1760691658&h=1&lang=it
 #EXTINF:-1 tvg-id="519182" tvg-name="Cattivissimo me 4" tvg-logo="https://image.tmdb.org/t/p/w500/ebG3a9AckyaOdsYNWLmOZpIhNot.jpg" group-title="Animazione",Cattivissimo me 4
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/262727?ub=1&token=5a1ae7a6e5b5270a1905e965776fc651&expires=1760690273&h=1&lang=it
+https://vixcloud.co/playlist/262727?ub=1&token=71451a7f24ed1f187a9af828c9c615b6&expires=1760691670&h=1&lang=it
 #EXTINF:-1 tvg-id="1022789" tvg-name="Inside Out 2" tvg-logo="https://image.tmdb.org/t/p/w500/mVkg1k4Iun40ZFiBQPFAxJHRZBu.jpg" group-title="Animazione",Inside Out 2
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/256571?ub=1&token=202941fcabf03ec55aa375b5f75c6bc7&expires=1760690273&h=1&lang=it
+https://vixcloud.co/playlist/256571?ub=1&token=996836717e72333472eb692d029f91b6&expires=1760691671&h=1&lang=it
+#EXTINF:-1 tvg-id="1376434" tvg-name="Predator: Killer dei Killer" tvg-logo="https://image.tmdb.org/t/p/w500/4I5jDbDZW7WxeieSCJ30edzk2Xe.jpg" group-title="Animazione",Predator: Killer dei Killer
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/323193?ub=1&token=3cada1f5de48077a4cfa0956575f0910&expires=1760691683&h=1&lang=it
 #EXTINF:-1 tvg-id="1307078" tvg-name="Il mio anno a Oxford" tvg-logo="https://image.tmdb.org/t/p/w500/dEHMJlWsLfLtujXGANyeuxyuqd5.jpg" group-title="Commedia",Il mio anno a Oxford
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/331933?ub=1&token=c51d639bd8a494c66a04f9971e35f3bd&expires=1760690274&h=1&lang=it
+https://vixcloud.co/playlist/331933?ub=1&token=13afc9055265724f75e08f535fc34bb6&expires=1760691695&h=1&lang=it
 #EXTINF:-1 tvg-id="13499" tvg-name="I tuoi, i miei e i nostri" tvg-logo="https://image.tmdb.org/t/p/w500/5g0KlRc9AnNpz8caHuYRFb3xCnJ.jpg" group-title="Commedia",I tuoi, i miei e i nostri
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/284482?ub=1&token=f0fa3ff4b01a0857593c394e7584c084&expires=1760690297&h=1&lang=it
+https://vixcloud.co/playlist/284482?ub=1&token=451c8484d57571b4c638ce813e383a27&expires=1760691717&h=1&lang=it
 #EXTINF:-1 tvg-id="1263256" tvg-name="Un tipo imprevedibile 2" tvg-logo="https://image.tmdb.org/t/p/w500/2HTLO8U9BWph27QVTKp2Hniyjt9.jpg" group-title="Commedia",Un tipo imprevedibile 2
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/330825?ub=1&token=dd1b43215d555c6003f182a6a38e6f7a&expires=1760690298&h=1&lang=it
+https://vixcloud.co/playlist/330825?ub=1&token=07aac5899eb6c5184a6614f4986a24d1&expires=1760691718&h=1&lang=it
 #EXTINF:-1 tvg-id="1254624" tvg-name="La notte arriva sempre" tvg-logo="https://image.tmdb.org/t/p/w500/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg" group-title="Crime",La notte arriva sempre
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/332965?ub=1&token=4c11d22d0c4b61cb1fe535d2f231f7d1&expires=1760690353&h=1&lang=it
+https://vixcloud.co/playlist/332965?ub=1&token=edcded68ea6d363794d812fb26049935&expires=1760691773&h=1&lang=it
 #EXTINF:-1 tvg-id="541671" tvg-name="Ballerina" tvg-logo="https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg" group-title="Crime",Ballerina
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/325512?ub=1&token=2955bd2c8fc7ad22f09559db16c6d4b8&expires=1760690354&h=1&lang=it
+https://vixcloud.co/playlist/325512?ub=1&token=fa69aa308fa7b0e57fd400b5b0211955&expires=1760691774&h=1&lang=it
 #EXTINF:-1 tvg-id="1374534" tvg-name="Almost Cops" tvg-logo="https://image.tmdb.org/t/p/w500/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg" group-title="Crime",Almost Cops
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/327869?ub=1&token=527a94a8f74d19a35937d12b71ecb4b8&expires=1760690366&h=1&lang=it
+https://vixcloud.co/playlist/327869?ub=1&token=72d2c121890ed430f3cb6d2726d14d43&expires=1760691786&h=1&lang=it
 #EXTINF:-1 tvg-id="1197306" tvg-name="A Working Man" tvg-logo="https://image.tmdb.org/t/p/w500/svSRfBNmZjDnus65gZJovFNa63R.jpg" group-title="Crime",A Working Man
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/317173?ub=1&token=581725e8249f7eb38a0441f69208ebb2&expires=1760690367&h=1&lang=it
+https://vixcloud.co/playlist/317173?ub=1&token=0468f6307e0ac4898dedfad9dd6fea03&expires=1760691787&h=1&lang=it
 #EXTINF:-1 tvg-id="1035259" tvg-name="Una pallottola spuntata" tvg-logo="https://image.tmdb.org/t/p/w500/tL8WM2MW87Sf48QctGHIpnnNSWK.jpg" group-title="Crime",Una pallottola spuntata
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/333050?ub=1&token=009c370cef1b3f00ebccc1216970c963&expires=1760690368&h=1&lang=it
+https://vixcloud.co/playlist/333050?ub=1&token=1fbc644f399f955bb5bab03855078d37&expires=1760691788&h=1&lang=it
 #EXTINF:-1 tvg-id="870028" tvg-name="The Accountant 2" tvg-logo="https://image.tmdb.org/t/p/w500/7TRiTQScz6jb6wz5oW9TxWzrOAa.jpg" group-title="Crime",The Accountant 2
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/323034?ub=1&token=a02fda7c16e00a6777a2f8783d58b904&expires=1760690368&h=1&lang=it
+https://vixcloud.co/playlist/323034?ub=1&token=9d81bf2dcc1b13c70f308d729d5ceac8&expires=1760691789&h=1&lang=it
 #EXTINF:-1 tvg-id="1513598" tvg-name="Stolen: Il furto del secolo" tvg-logo="https://image.tmdb.org/t/p/w500/aqZOJkBd3DR6ioacm136lP7BGvi.jpg" group-title="Crime",Stolen: Il furto del secolo
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/332336?ub=1&token=aa24e277b9dc278533f1a7e3cec1694b&expires=1760690369&h=1&lang=it
+https://vixcloud.co/playlist/332336?ub=1&token=66147325d007eb9fbe415d5a246e400a&expires=1760691790&h=1&lang=it
 #EXTINF:-1 tvg-id="1508562" tvg-name="Sigo siendo la misma" tvg-logo="https://image.tmdb.org/t/p/w500/mfuUAORL9v4hwrVes1FKdPuyf6p.jpg" group-title="Documentario",Sigo siendo la misma
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/329492?ub=1&token=f446711feff9c1935d2c037e2ec8ad6f&expires=1760690457&h=1&lang=it
+https://vixcloud.co/playlist/329492?ub=1&token=c6099c4aaf494e3edc462eb93f6c79f9&expires=1760691878&h=1&lang=it
 #EXTINF:-1 tvg-id="911430" tvg-name="F1: Il film" tvg-logo="https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg" group-title="Dramma",F1: Il film
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/326830?ub=1&token=3be672625e8fb3dff39a28fceffb427d&expires=1760690513&h=1&lang=it
+https://vixcloud.co/playlist/326830?ub=1&token=117213e39d96bf5ee73ed012b47c377b&expires=1760691933&h=1&lang=it
 #EXTINF:-1 tvg-id="1010581" tvg-name="È colpa mia?" tvg-logo="https://image.tmdb.org/t/p/w500/wXwB3KhYhvzfsDMH6JBgbfsLi8s.jpg" group-title="Dramma",È colpa mia?
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/158132?ub=1&token=db32ebe452846d2583fec044727c3061&expires=1760690579&h=1&lang=it
+https://vixcloud.co/playlist/158132?ub=1&token=2e61ce27d8598a78a024eba61996ee1c&expires=1760691999&h=1&lang=it
 #EXTINF:-1 tvg-id="939243" tvg-name="Sonic 3 - Il film" tvg-logo="https://image.tmdb.org/t/p/w500/hArbAOlNZX0qfd2Udpr6RCTflpg.jpg" group-title="Famiglia",Sonic 3 - Il film
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/280409?ub=1&token=978ae5e595ea24672467a8d50c60b885&expires=1760690580&h=1&lang=it
+https://vixcloud.co/playlist/280409?ub=1&token=91dbf7ef2369054bd061200d95b22a2b&expires=1760692000&h=1&lang=it
 #EXTINF:-1 tvg-id="1287536" tvg-name="Dora alla ricerca di Sol Dorado" tvg-logo="https://image.tmdb.org/t/p/w500/rzPymh6xqXuvH3i7yEMdckRMefG.jpg" group-title="Famiglia",Dora alla ricerca di Sol Dorado
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/326767?ub=1&token=313f6cf6411d3dc02ceee3b458de3fe3&expires=1760690592&h=1&lang=it
+https://vixcloud.co/playlist/326767?ub=1&token=f09a44e9f6b805ddf2dc0de052149e3f&expires=1760692001&h=1&lang=it
 #EXTINF:-1 tvg-id="762509" tvg-name="Mufasa: Il Re Leone" tvg-logo="https://image.tmdb.org/t/p/w500/28wQf8Hve6eDB0Ktv0A6Q6YOtD7.jpg" group-title="Famiglia",Mufasa: Il Re Leone
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/288404?ub=1&token=698976dbdb6c285e934a9881eaeac814&expires=1760690604&h=1&lang=it
+https://vixcloud.co/playlist/288404?ub=1&token=a33f6867ed0ce510802845bccc3af14b&expires=1760692002&h=1&lang=it
 #EXTINF:-1 tvg-id="447273" tvg-name="Biancaneve" tvg-logo="https://image.tmdb.org/t/p/w500/xflYjI2PNBtO2WIaXqzFnoWDSNZ.jpg" group-title="Famiglia",Biancaneve
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/314852?ub=1&token=20c087c83fa279fa434e665bc6095b21&expires=1760690604&h=1&lang=it
+https://vixcloud.co/playlist/314852?ub=1&token=6e9fac909edf732ae930a3bc6ad20f1f&expires=1760692003&h=1&lang=it
 #EXTINF:-1 tvg-id="10330" tvg-name="Quel pazzo venerdì" tvg-logo="https://image.tmdb.org/t/p/w500/9IDWti7shELkd7upTdgiCRGfPjN.jpg" group-title="Famiglia",Quel pazzo venerdì
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/174143?ub=1&token=02e0d27d1001c870606212811a10ce94&expires=1760690605&h=1&lang=it
+https://vixcloud.co/playlist/174143?ub=1&token=ab1ec78210593ab138121e63e33dc73d&expires=1760692004&h=1&lang=it
 #EXTINF:-1 tvg-id="629542" tvg-name="Troppo cattivi" tvg-logo="https://image.tmdb.org/t/p/w500/3eZ2QQWbhH13jk3EL2NAC2xb2ww.jpg" group-title="Famiglia",Troppo cattivi
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/116583?ub=1&token=f587e65816b6b88e43c44a3e9aeb53ee&expires=1760690617&h=1&lang=it
+https://vixcloud.co/playlist/116583?ub=1&token=c0a4973d1d9f38ad7a479510fb2f46f1&expires=1760692016&h=1&lang=it
+#EXTINF:-1 tvg-id="1243341" tvg-name="Zombies 4 - L'alba dei vampiri" tvg-logo="https://image.tmdb.org/t/p/w500/g3TJsRvWtF9APwVXYKbWaqPjy50.jpg" group-title="Famiglia",Zombies 4 - L'alba dei vampiri
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/327997?ub=1&token=1816441e4d73ac9940e5c27e68ea5eeb&expires=1760692027&h=1&lang=it
+#EXTINF:-1 tvg-id="1184918" tvg-name="Il robot selvaggio" tvg-logo="https://image.tmdb.org/t/p/w500/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg" group-title="Famiglia",Il robot selvaggio
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/268184?ub=1&token=26c7d6b60ef66de0e107e83993ef15cb&expires=1760692028&h=1&lang=it
 #EXTINF:-1 tvg-id="846422" tvg-name="The Old Guard 2" tvg-logo="https://image.tmdb.org/t/p/w500/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg" group-title="Fantasy",The Old Guard 2
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/326528?ub=1&token=b900a1eec7985339dec3c810a46e22df&expires=1760690640&h=1&lang=it
+https://vixcloud.co/playlist/326528?ub=1&token=f33f0c7f9753f31cdeeea342d51c712d&expires=1760692029&h=1&lang=it
 #EXTINF:-1 tvg-id="671" tvg-name="Harry Potter e la pietra filosofale" tvg-logo="https://image.tmdb.org/t/p/w500/sBior1EIjB01z1Z7iQqvjP3SfY9.jpg" group-title="Fantasy",Harry Potter e la pietra filosofale
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/322645?ub=1&token=1b1b1913e677554f2a9147da280a8ba8&expires=1760690651&h=1&lang=it
+https://vixcloud.co/playlist/322645?ub=1&token=91a8d01e5de77ee2afc92b405b125a1d&expires=1760692041&h=1&lang=it
 #EXTINF:-1 tvg-id="19995" tvg-name="Avatar" tvg-logo="https://image.tmdb.org/t/p/w500/qLQgNd5NcPgEJBN6V9fg14YdIE7.jpg" group-title="Fantasy",Avatar
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/262404?ub=1&token=23779b6c764e879f7753b7f08c2fca79&expires=1760690663&h=1&lang=it
+https://vixcloud.co/playlist/262404?ub=1&token=659510d00d71350f504a1678b48124af&expires=1760692053&h=1&lang=it
 #EXTINF:-1 tvg-id="9738" tvg-name="I Fantastici 4" tvg-logo="https://image.tmdb.org/t/p/w500/eKhPbzlRbDPAU23RvOK6AeQjEXd.jpg" group-title="Fantasy",I Fantastici 4
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/269680?ub=1&token=07fce097bf0854f6f68e84966d8c1f16&expires=1760690664&h=1&lang=it
+https://vixcloud.co/playlist/269680?ub=1&token=07fb8a820845864794c3e146c01ecf5f&expires=1760692054&h=1&lang=it
 #EXTINF:-1 tvg-id="1011985" tvg-name="Kung Fu Panda 4" tvg-logo="https://image.tmdb.org/t/p/w500/hXx9YEJzRhronB6jtfpzVh19WhY.jpg" group-title="Fantasy",Kung Fu Panda 4
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/226464?ub=1&token=15e344fdf996dd9a3703f2043fd6822b&expires=1760690665&h=1&lang=it
+https://vixcloud.co/playlist/226464?ub=1&token=a515c4a697062fcab02460c32309c8c7&expires=1760692055&h=1&lang=it
 #EXTINF:-1 tvg-id="411" tvg-name="Le cronache di Narnia - Il leone, la strega e l'armadio" tvg-logo="https://image.tmdb.org/t/p/w500/y67Dk4tIPdPh87M43ZkzLKfOT8M.jpg" group-title="Fantasy",Le cronache di Narnia - Il leone, la strega e l'armadio
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/205717?ub=1&token=bd1865f75bd9011bea87d972edcb1510&expires=1760690666&h=1&lang=it
+https://vixcloud.co/playlist/205717?ub=1&token=ffb133eb60a94e8505808162dfdc1e05&expires=1760692055&h=1&lang=it
 #EXTINF:-1 tvg-id="120" tvg-name="Il Signore degli Anelli - La compagnia dell'anello" tvg-logo="https://image.tmdb.org/t/p/w500/nv6wnTxXYTbUTObE4VXu7bacPRt.jpg" group-title="Fantasy",Il Signore degli Anelli - La compagnia dell'anello
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/170360?ub=1&token=b77f3b541dbe3930904ee1e32624528a&expires=1760690667&h=1&lang=it
+https://vixcloud.co/playlist/170360?ub=1&token=9980e5c8ceedc34132c427b36d2d1949&expires=1760692056&h=1&lang=it
+#EXTINF:-1 tvg-id="672" tvg-name="Harry Potter e la camera dei segreti" tvg-logo="https://image.tmdb.org/t/p/w500/gxVlID0WlCed6lm1D8wACidUaVY.jpg" group-title="Fantasy",Harry Potter e la camera dei segreti
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/322686?ub=1&token=284f932ae1b4061623d34f4ed635eb36&expires=1760692057&h=1&lang=it
 #EXTINF:-1 tvg-id="872585" tvg-name="Oppenheimer" tvg-logo="https://image.tmdb.org/t/p/w500/aIwI6oRraxbOetNUuMIoQ3C99cg.jpg" group-title="Storia",Oppenheimer
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/175936?ub=1&token=12c82e4f1a54b1c7ed9ee53a15588572&expires=1760690679&h=1&lang=it
+https://vixcloud.co/playlist/175936?ub=1&token=29ac548fdb256f37f33022aebdb19d0d&expires=1760692069&h=1&lang=it
 #EXTINF:-1 tvg-id="324786" tvg-name="La battaglia di Hacksaw Ridge" tvg-logo="https://image.tmdb.org/t/p/w500/hmaWy0tZlYoZoMpGId6MVIImIGG.jpg" group-title="Storia",La battaglia di Hacksaw Ridge
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/104141?ub=1&token=dc7da21b3754d92175497d4a6a60fc13&expires=1760690679&h=1&lang=it
+https://vixcloud.co/playlist/104141?ub=1&token=74403e1f23eef941d6c30189c85ba7ed&expires=1760692070&h=1&lang=it
 #EXTINF:-1 tvg-id="424" tvg-name="Schindler's List" tvg-logo="https://image.tmdb.org/t/p/w500/m0pV0fmMERzCvPVQbLLrPPLl5q1.jpg" group-title="Storia",Schindler's List
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/216851?ub=1&token=1d2f9a1e5e993c34b436b38ec6250ede&expires=1760690680&h=1&lang=it
+https://vixcloud.co/playlist/216851?ub=1&token=4a47866f63d17dd5777c777c2775fbf6&expires=1760692071&h=1&lang=it
 #EXTINF:-1 tvg-id="652" tvg-name="Troy" tvg-logo="https://image.tmdb.org/t/p/w500/6n8BiphW9fvqC6biB0RMfblqi43.jpg" group-title="Storia",Troy
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/200846?ub=1&token=f1c17941385357c63842e59760758203&expires=1760690681&h=1&lang=it
+https://vixcloud.co/playlist/200846?ub=1&token=77988553757584612c7b3dd0a0622c5f&expires=1760692072&h=1&lang=it
 #EXTINF:-1 tvg-id="205596" tvg-name="The Imitation Game" tvg-logo="https://image.tmdb.org/t/p/w500/5Uc82xW62CoDMbSvcopOq5Zn6uK.jpg" group-title="Storia",The Imitation Game
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/231758?ub=1&token=591000277bd7b3cfd3f7c01aa7184067&expires=1760690682&h=1&lang=it
+https://vixcloud.co/playlist/231758?ub=1&token=9277f56df3d38311a435f14b3d5dc047&expires=1760692073&h=1&lang=it
 #EXTINF:-1 tvg-id="490132" tvg-name="Green Book" tvg-logo="https://image.tmdb.org/t/p/w500/gyjBcyimXedn0GANgagmfmcNU44.jpg" group-title="Storia",Green Book
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/231765?ub=1&token=6904c24d198c4bff5ff7c204cfc0d09e&expires=1760690694&h=1&lang=it
+https://vixcloud.co/playlist/231765?ub=1&token=0fd7e13506d63e6737126b464526cf65&expires=1760692084&h=1&lang=it
 #EXTINF:-1 tvg-id="1495" tvg-name="Le crociate - Kingdom of Heaven" tvg-logo="https://image.tmdb.org/t/p/w500/eBANLMsnquFkKzf28l93SunsksU.jpg" group-title="Storia",Le crociate - Kingdom of Heaven
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/213131?ub=1&token=24ce95817abf4f01b93c11ca7423626f&expires=1760690695&h=1&lang=it
+https://vixcloud.co/playlist/213131?ub=1&token=f846401715ceaea9eec96a82a863702f&expires=1760692085&h=1&lang=it
 #EXTINF:-1 tvg-id="753342" tvg-name="Napoleon" tvg-logo="https://image.tmdb.org/t/p/w500/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg" group-title="Storia",Napoleon
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/216016?ub=1&token=34fbb66bfdd1bb01e7456200d8705050&expires=1760690696&h=1&lang=it
+https://vixcloud.co/playlist/216016?ub=1&token=f6c228ff6970ffd39419e05896aff7a1&expires=1760692086&h=1&lang=it
 #EXTINF:-1 tvg-id="1100988" tvg-name="28 anni dopo" tvg-logo="https://image.tmdb.org/t/p/w500/vdgKm72KVHTRcdUNFsS1Yy3qjkB.jpg" group-title="Horror",28 anni dopo
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/331983?ub=1&token=5ad1b9fc97dea395adbc9a257812fa68&expires=1760690740&h=1&lang=it
+https://vixcloud.co/playlist/331983?ub=1&token=25196d99061db18b1bfc14a073e48691&expires=1760692109&h=1&lang=it
 #EXTINF:-1 tvg-id="574475" tvg-name="Final Destination - Bloodlines" tvg-logo="https://image.tmdb.org/t/p/w500/b2miftxDl5yQA8gKcZ3pX8j5R1C.jpg" group-title="Horror",Final Destination - Bloodlines
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/325195?ub=1&token=a049ba27f411dd3cd7be8ac31fa51240&expires=1760690763&h=1&lang=it
-#EXTINF:-1 tvg-id="1243341" tvg-name="Zombies 4 - L'alba dei vampiri" tvg-logo="https://image.tmdb.org/t/p/w500/g3TJsRvWtF9APwVXYKbWaqPjy50.jpg" group-title="Musica",Zombies 4 - L'alba dei vampiri
-#EXTVLCOPT:http-referrer=https://vixsrc.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/327997?ub=1&token=0e2e9c77e873219e7f389ae78d093dac&expires=1760690785&h=1&lang=it
+https://vixcloud.co/playlist/325195?ub=1&token=fbf82fed2b012fd724d96da93ede4ec1&expires=1760692131&h=1&lang=it
 #EXTINF:-1 tvg-id="354912" tvg-name="Coco" tvg-logo="https://image.tmdb.org/t/p/w500/l5qUox5uroubMi8sihD9RGPbcwO.jpg" group-title="Musica",Coco
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/214217?ub=1&token=70b06af086b030b72c4f38a49acfdcfb&expires=1760690786&h=1&lang=it
+https://vixcloud.co/playlist/214217?ub=1&token=e890bb9cb0fdd8ebd151ad492a32ee5c&expires=1760692176&h=1&lang=it
 #EXTINF:-1 tvg-id="244786" tvg-name="Whiplash" tvg-logo="https://image.tmdb.org/t/p/w500/jQwkXN38AGrK2s3LJqxZow1Ic7z.jpg" group-title="Musica",Whiplash
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/250325?ub=1&token=3ecb75d2afc07f559fd262dc537a5e93&expires=1760690787&h=1&lang=it
+https://vixcloud.co/playlist/250325?ub=1&token=05390cf8370af315d0f5826c0b12e616&expires=1760692177&h=1&lang=it
 #EXTINF:-1 tvg-id="438695" tvg-name="Sing 2 - Sempre più forte" tvg-logo="https://image.tmdb.org/t/p/w500/tyuZo3ZgtNszmN0HTx8dLTQbs46.jpg" group-title="Musica",Sing 2 - Sempre più forte
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/263961?ub=1&token=4b68429b08f3b4b1d32e5eab022ad2e2&expires=1760690799&h=1&lang=it
+https://vixcloud.co/playlist/263961?ub=1&token=c89d50c9219c09aaccbc6087464bc1e6&expires=1760692188&h=1&lang=it
 #EXTINF:-1 tvg-id="313369" tvg-name="La La Land" tvg-logo="https://image.tmdb.org/t/p/w500/7cKs9G0GUMDtIs7E4j8CHEYIWV1.jpg" group-title="Musica",La La Land
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/205707?ub=1&token=b8f6b6310dc37adecb90f40ea6b15d33&expires=1760690800&h=1&lang=it
+https://vixcloud.co/playlist/205707?ub=1&token=48a672d323e6fd8f405e7874513857c8&expires=1760692189&h=1&lang=it
 #EXTINF:-1 tvg-id="1000866" tvg-name="L'orchestra stonata" tvg-logo="https://image.tmdb.org/t/p/w500/f7KjGQQ9n2wlZvagAQZWMlqMQcb.jpg" group-title="Musica",L'orchestra stonata
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/292375?ub=1&token=987d009f7cad09f462dce2d1dd5a9335&expires=1760690801&h=1&lang=it
+https://vixcloud.co/playlist/292375?ub=1&token=87e1732dd14cd239e4f799ac0f664a51&expires=1760692190&h=1&lang=it
 #EXTINF:-1 tvg-id="277217" tvg-name="Descendants" tvg-logo="https://image.tmdb.org/t/p/w500/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg" group-title="Musica",Descendants
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/214318?ub=1&token=300668d359e39768c8c21cce63c906eb&expires=1760690802&h=1&lang=it
+https://vixcloud.co/playlist/214318?ub=1&token=952c14f18a8b8e7a02c3734a8a153495&expires=1760692191&h=1&lang=it
 #EXTINF:-1 tvg-id="661539" tvg-name="A Complete Unknown" tvg-logo="https://image.tmdb.org/t/p/w500/lrukuw7z38D2OJhJ0iMERCcXwt2.jpg" group-title="Musica",A Complete Unknown
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/290589?ub=1&token=76b3cef1b7efb840c7c4258949ced5c7&expires=1760690802&h=1&lang=it
+https://vixcloud.co/playlist/290589?ub=1&token=3994ddea9ae497e9887bd098c338aac2&expires=1760692192&h=1&lang=it
+#EXTINF:-1 tvg-id="335797" tvg-name="Sing" tvg-logo="https://image.tmdb.org/t/p/w500/fSLQa1RcnuStfA7z5KNAd2hEbwM.jpg" group-title="Musica",Sing
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/254210?ub=1&token=8ae9c946e52b9d48ab824c117138fa58&expires=1760692204&h=1&lang=it
 #EXTINF:-1 tvg-id="385687" tvg-name="Fast X" tvg-logo="https://image.tmdb.org/t/p/w500/hC6mLdlgpFU63FOduX80xaGevGj.jpg" group-title="Mistero",Fast X
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/158668?ub=1&token=7420596dadd0b2cbbe36a83e7ef0a442&expires=1760690858&h=1&lang=it
+https://vixcloud.co/playlist/158668?ub=1&token=69eaae78692976962a8e1115d9fb12f3&expires=1760692248&h=1&lang=it
 #EXTINF:-1 tvg-id="198663" tvg-name="Maze Runner - Il labirinto" tvg-logo="https://image.tmdb.org/t/p/w500/jUbxPjUpRFh7wQ64wUIwV63rTAY.jpg" group-title="Mistero",Maze Runner - Il labirinto
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/202876?ub=1&token=e545efb8300a885af5c2f12580742195&expires=1760690859&h=1&lang=it
+https://vixcloud.co/playlist/202876?ub=1&token=e80a29ab398f26510d941c17986f5e47&expires=1760692249&h=1&lang=it
 #EXTINF:-1 tvg-id="1232546" tvg-name="Until Dawn - Fino all'alba" tvg-logo="https://image.tmdb.org/t/p/w500/wowvIYUQIy1jV87PnUsZu8XItCl.jpg" group-title="Mistero",Until Dawn - Fino all'alba
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/319988?ub=1&token=fcd908b7eb8cf1e6872dada097aa526f&expires=1760690859&h=1&lang=it
+https://vixcloud.co/playlist/319988?ub=1&token=210fc62612b6d2e4f31cb4f1a9c47245&expires=1760692250&h=1&lang=it
 #EXTINF:-1 tvg-id="414906" tvg-name="The Batman" tvg-logo="https://image.tmdb.org/t/p/w500/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg" group-title="Mistero",The Batman
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/227941?ub=1&token=64dfbb11b6c3bafad95ed2217147a8ad&expires=1760690882&h=1&lang=it
+https://vixcloud.co/playlist/227941?ub=1&token=9c99a714e8c4625a6f1f767e51a9cb77&expires=1760692273&h=1&lang=it
 #EXTINF:-1 tvg-id="950396" tvg-name="Misteri dal profondo" tvg-logo="https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg" group-title="Romance",Misteri dal profondo
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/286053?ub=1&token=69c97b435e9550bef9fb4c2c44254d60&expires=1760690937&h=1&lang=it
+https://vixcloud.co/playlist/286053?ub=1&token=e1310ddd1eaf01d987d5ddda1e75a73e&expires=1760692328&h=1&lang=it
 #EXTINF:-1 tvg-id="829557" tvg-name="365 giorni - Adesso" tvg-logo="https://image.tmdb.org/t/p/w500/vD8F0yiD3ZBMULLPpF2lthaHESf.jpg" group-title="Romance",365 giorni - Adesso
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/112669?ub=1&token=d12490aea02db8c1777f026a13ac1e31&expires=1760690938&h=1&lang=it
+https://vixcloud.co/playlist/112669?ub=1&token=9212f27efd32f2582d34e9d76624bcf9&expires=1760692329&h=1&lang=it
 #EXTINF:-1 tvg-id="1156593" tvg-name="È colpa tua?" tvg-logo="https://image.tmdb.org/t/p/w500/cKwId4BiGtYPIUCYtKxVphtclrt.jpg" group-title="Romance",È colpa tua?
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/277322?ub=1&token=d0adfc96e351abadcfe13f33e062f3f7&expires=1760690961&h=1&lang=it
-#EXTINF:-1 tvg-id="755898" tvg-name="La guerra dei mondi" tvg-logo="https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg" group-title="Fantascienza",La guerra dei mondi
-#EXTVLCOPT:http-referrer=https://vixsrc.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/331772?ub=1&token=f5dbc71bcb668130e42ff9001e261c0c&expires=1760690962&h=1&lang=it
-#EXTINF:-1 tvg-id="1071585" tvg-name="M3GAN 2.0" tvg-logo="https://image.tmdb.org/t/p/w500/qGn4glNC6UqrkxryP8MWyaJLEcR.jpg" group-title="Fantascienza",M3GAN 2.0
-#EXTVLCOPT:http-referrer=https://vixsrc.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/332492?ub=1&token=162b5d5d16c7ed654374a0bc6844a30c&expires=1760690963&h=1&lang=it
-#EXTINF:-1 tvg-id="693134" tvg-name="Dune - Parte due" tvg-logo="https://image.tmdb.org/t/p/w500/uotDvtfnVndxtAvmvNVamqwJKiG.jpg" group-title="Fantascienza",Dune - Parte due
-#EXTVLCOPT:http-referrer=https://vixsrc.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/221474?ub=1&token=273d1a96a942adf911e1718389a11a6c&expires=1760690964&h=1&lang=it
+https://vixcloud.co/playlist/277322?ub=1&token=e601c01ac821199c72cb159b39e35b2c&expires=1760692352&h=1&lang=it
 #EXTINF:-1 tvg-id="822119" tvg-name="Captain America: Brave New World" tvg-logo="https://image.tmdb.org/t/p/w500/fhL2nDPGKjxpoWvUTo5iFCLRrh0.jpg" group-title="Fantascienza",Captain America: Brave New World
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/305992?ub=1&token=1f2729d158c973af43c5c0ba3fd7e985&expires=1760690964&h=1&lang=it
+https://vixcloud.co/playlist/305992?ub=1&token=cca00c063fac8505ab6116d2ddbe7f81&expires=1760692352&h=1&lang=it
 #EXTINF:-1 tvg-id="157336" tvg-name="Interstellar" tvg-logo="https://image.tmdb.org/t/p/w500/bMKiLh0mES4Uiococ240lbbTGXQ.jpg" group-title="Fantascienza",Interstellar
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/273588?ub=1&token=06f19402ebb0e007ea0c44a8ab89ae79&expires=1760690976&h=1&lang=it
+https://vixcloud.co/playlist/273588?ub=1&token=dbeae179cae65847f60cb59a87bcf869&expires=1760692364&h=1&lang=it
 #EXTINF:-1 tvg-id="533535" tvg-name="Deadpool & Wolverine" tvg-logo="https://image.tmdb.org/t/p/w500/1ecutECxMnuyjsEJRIrw6QINwTt.jpg" group-title="Fantascienza",Deadpool & Wolverine
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/263200?ub=1&token=d737ff2f04821cf8c800a140afdce9b6&expires=1760690977&h=1&lang=it
-#EXTINF:-1 tvg-id="1376434" tvg-name="Predator: Killer dei Killer" tvg-logo="https://image.tmdb.org/t/p/w500/4I5jDbDZW7WxeieSCJ30edzk2Xe.jpg" group-title="Fantascienza",Predator: Killer dei Killer
-#EXTVLCOPT:http-referrer=https://vixsrc.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/323193?ub=1&token=a5a28c2561fc27b26587ebd42877e0a6&expires=1760690978&h=1&lang=it
+https://vixcloud.co/playlist/263200?ub=1&token=b7761ee50ae31e78bfebb888d7808d77&expires=1760692365&h=1&lang=it
 #EXTINF:-1 tvg-id="605722" tvg-name="Long Distance - Senza ossigeno" tvg-logo="https://image.tmdb.org/t/p/w500/eAZytDr3dmq8q12tMamX601xkgf.jpg" group-title="Fantascienza",Long Distance - Senza ossigeno
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/269715?ub=1&token=50473440a02d4e2b8fcd0b8655b818d0&expires=1760690979&h=1&lang=it
+https://vixcloud.co/playlist/269715?ub=1&token=6c9eacc80c356ddc9ecbe540a59c47a0&expires=1760692366&h=1&lang=it
 #EXTINF:-1 tvg-id="912649" tvg-name="Venom: The Last Dance" tvg-logo="https://image.tmdb.org/t/p/w500/5ZMor3WLFXNAfQt7TXRB6UU1Uj4.jpg" group-title="Fantascienza",Venom: The Last Dance
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/274840?ub=1&token=fb9d0bb2212eb1f9cc3115d1097895b7&expires=1760690980&h=1&lang=it
+https://vixcloud.co/playlist/274840?ub=1&token=7ad046528ec08d62b22d928eb964fe3b&expires=1760692367&h=1&lang=it
+#EXTINF:-1 tvg-id="24428" tvg-name="The Avengers" tvg-logo="https://image.tmdb.org/t/p/w500/mJwEvI0k75o1uRkd57ZbERazxzf.jpg" group-title="Fantascienza",The Avengers
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/204303?ub=1&token=22ec9f41a5cb8eeae14f0ecee5c295af&expires=1760692368&h=1&lang=it
+#EXTINF:-1 tvg-id="634649" tvg-name="Spider-Man: No Way Home" tvg-logo="https://image.tmdb.org/t/p/w500/xIBdtxFNHqRYptvEJbUsZVmgPPI.jpg" group-title="Fantascienza",Spider-Man: No Way Home
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/103166?ub=1&token=31014d9412e66edd019a33746e8b0955&expires=1760692369&h=1&lang=it
+#EXTINF:-1 tvg-id="1084199" tvg-name="Companion" tvg-logo="https://image.tmdb.org/t/p/w500/AbH00wyIzvwHkiBVyRXKN4Phytl.jpg" group-title="Fantascienza",Companion
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/292036?ub=1&token=bad428f711b9e410ce22c6ae48103bbd&expires=1760692380&h=1&lang=it
 #EXTINF:-1 tvg-id="1354627" tvg-name="SpongeBob: Kamp Spavento" tvg-logo="https://image.tmdb.org/t/p/w500/aUOCmqkbCX94znDJNtSy1402Sie.jpg" group-title="televisione film",SpongeBob: Kamp Spavento
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/266852?ub=1&token=8f5f2a06b691427cba7a00fa6c6ccd05&expires=1760691013&h=1&lang=it
+https://vixcloud.co/playlist/266852?ub=1&token=3599d5b5f0f697b3d69422dea38ac55c&expires=1760692414&h=1&lang=it
 #EXTINF:-1 tvg-id="1151039" tvg-name="Nonnas" tvg-logo="https://image.tmdb.org/t/p/w500/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg" group-title="televisione film",Nonnas
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/314115?ub=1&token=71496c955a9b641fb2d2eccebf26ca88&expires=1760691025&h=1&lang=it
+https://vixcloud.co/playlist/314115?ub=1&token=348154d0116770384e09176ca8512767&expires=1760692426&h=1&lang=it
 #EXTINF:-1 tvg-id="1114894" tvg-name="Star Trek: Section 31" tvg-logo="https://image.tmdb.org/t/p/w500/vD2BusqtJNBjtQ2FUPVwjNh4HmF.jpg" group-title="televisione film",Star Trek: Section 31
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/280461?ub=1&token=b3e80b4c1edb9e90329666d4351ac614&expires=1760691026&h=1&lang=it
+https://vixcloud.co/playlist/280461?ub=1&token=f0d9856be944202a96030751cbc60ba6&expires=1760692427&h=1&lang=it
 #EXTINF:-1 tvg-id="877703" tvg-name="Teen Wolf - Il film" tvg-logo="https://image.tmdb.org/t/p/w500/4JIE0VIZoah5b5CCJEKuOkZzH3B.jpg" group-title="televisione film",Teen Wolf - Il film
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/150372?ub=1&token=430be01f0991f53b2862d6e964329696&expires=1760691038&h=1&lang=it
+https://vixcloud.co/playlist/150372?ub=1&token=8f152c02244d38444410f1f03ae8f84c&expires=1760692438&h=1&lang=it
 #EXTINF:-1 tvg-id="506574" tvg-name="Descendants 3" tvg-logo="https://image.tmdb.org/t/p/w500/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg" group-title="televisione film",Descendants 3
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/214334?ub=1&token=274a953083505816a9eced49fd7a501f&expires=1760691039&h=1&lang=it
+https://vixcloud.co/playlist/214334?ub=1&token=5f6299c795dc264ee10ef679e6c07719&expires=1760692439&h=1&lang=it
 #EXTINF:-1 tvg-id="749170" tvg-name="Capi di Stato in fuga" tvg-logo="https://image.tmdb.org/t/p/w500/uiubfSOgtfi92C38YSMLK7EixeI.jpg" group-title="Thriller",Capi di Stato in fuga
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/326532?ub=1&token=5411bfbb59a71e705cf6f38a2afdfc1c&expires=1760691050&h=1&lang=it
+https://vixcloud.co/playlist/326532?ub=1&token=52ca5ef02172766ac9e36279c53dda2f&expires=1760692451&h=1&lang=it
 #EXTINF:-1 tvg-id="1087891" tvg-name="Operazione vendetta" tvg-logo="https://image.tmdb.org/t/p/w500/9IoYsiQEUe50ViywjffKh5pUJqX.jpg" group-title="Thriller",Operazione vendetta
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/324266?ub=1&token=b259d83f071e3ce3b4edc67d0cd3fe85&expires=1760691062&h=1&lang=it
+https://vixcloud.co/playlist/324266?ub=1&token=a3a1de071f9b10b44aaa9ca411b65829&expires=1760692463&h=1&lang=it
 #EXTINF:-1 tvg-id="1233413" tvg-name="I peccatori" tvg-logo="https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg" group-title="Thriller",I peccatori
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/322832?ub=1&token=6ca238a0e4a25717a46672f00a55f0f8&expires=1760691063&h=1&lang=it
-#EXTINF:-1 tvg-id="1084199" tvg-name="Companion" tvg-logo="https://image.tmdb.org/t/p/w500/AbH00wyIzvwHkiBVyRXKN4Phytl.jpg" group-title="Thriller",Companion
-#EXTVLCOPT:http-referrer=https://vixsrc.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/292036?ub=1&token=a46c9e22e64a67efdac74737f7a07083&expires=1760691075&h=1&lang=it
+https://vixcloud.co/playlist/322832?ub=1&token=b5421f009ba0cd6af920ec6217fb9ad6&expires=1760692464&h=1&lang=it
 #EXTINF:-1 tvg-id="615457" tvg-name="Io sono nessuno" tvg-logo="https://image.tmdb.org/t/p/w500/iECT5xNf72P7cx9LDMrEwhGYD5O.jpg" group-title="Thriller",Io sono nessuno
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/69000?ub=1&token=3768bd7380f80fbd6fa18414b35fb1a7&expires=1760691087&h=1&lang=it
+https://vixcloud.co/playlist/69000?ub=1&token=86bb92e62dd51e7441c39ce3dee72635&expires=1760692475&h=1&lang=it
+#EXTINF:-1 tvg-id="138843" tvg-name="L'evocazione - The Conjuring" tvg-logo="https://image.tmdb.org/t/p/w500/inBZ5Lm0tUNSgMGZZ7f9vfHNKI2.jpg" group-title="Thriller",L'evocazione - The Conjuring
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/276617?ub=1&token=708207d4eed72d8db2b6eba7e4180e2c&expires=1760692498&h=1&lang=it
 #EXTINF:-1 tvg-id="856289" tvg-name="Creation of the Gods I - Kingdom of Storms" tvg-logo="https://image.tmdb.org/t/p/w500/9hR5NPTT1gpTwcRO3wdgxhjEMyf.jpg" group-title="Guerra",Creation of the Gods I - Kingdom of Storms
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/280363?ub=1&token=6837f503e9f9191c8d78a1cc1810aa4c&expires=1760691120&h=1&lang=it
+https://vixcloud.co/playlist/280363?ub=1&token=4d84e28d0b4e66ff9f5b9c97ddf40de9&expires=1760692510&h=1&lang=it
 #EXTINF:-1 tvg-id="228150" tvg-name="Fury" tvg-logo="https://image.tmdb.org/t/p/w500/sKNHjFmCwkXFSORR9vyVTmsD6fy.jpg" group-title="Guerra",Fury
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/227275?ub=1&token=4966ec61d655d6a7725e273dc83f61cf&expires=1760691121&h=1&lang=it
+https://vixcloud.co/playlist/227275?ub=1&token=eadbc333a9638b9ed1e17ec4ce2442d4&expires=1760692511&h=1&lang=it
 #EXTINF:-1 tvg-id="16869" tvg-name="Bastardi senza gloria" tvg-logo="https://image.tmdb.org/t/p/w500/aa1jLbxTTuA6o5ucHoZh2khwNSo.jpg" group-title="Guerra",Bastardi senza gloria
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/291260?ub=1&token=88cd0a30cfba02da224336b1d7bb60cb&expires=1760691122&h=1&lang=it
+https://vixcloud.co/playlist/291260?ub=1&token=4ffbf7681756305f090de71a69bba18b&expires=1760692512&h=1&lang=it
 #EXTINF:-1 tvg-id="799583" tvg-name="Il ministero della guerra sporca" tvg-logo="https://image.tmdb.org/t/p/w500/n9hYoffqaciZ8e68Y1FsbHuAisX.jpg" group-title="Guerra",Il ministero della guerra sporca
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/249266?ub=1&token=8d7f52bcd4530ccf851b65472aad54e2&expires=1760691123&h=1&lang=it
+https://vixcloud.co/playlist/249266?ub=1&token=5bb6ab8dbf47c96c8d1edcd737c55cfa&expires=1760692513&h=1&lang=it
 #EXTINF:-1 tvg-id="929590" tvg-name="Civil War" tvg-logo="https://image.tmdb.org/t/p/w500/vST6kIlOO2fJLtkonUErSpU83pk.jpg" group-title="Guerra",Civil War
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/234235?ub=1&token=f9dd2046f3840b007d4af76b8573c306&expires=1760691145&h=1&lang=it
+https://vixcloud.co/playlist/234235?ub=1&token=0a84fa3f9ad57824337cfd20ca2dca38&expires=1760692535&h=1&lang=it
 #EXTINF:-1 tvg-id="1417" tvg-name="Il labirinto del fauno" tvg-logo="https://image.tmdb.org/t/p/w500/fZaGhQbcZjawczIH1aI32NZE1HN.jpg" group-title="Guerra",Il labirinto del fauno
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/165955?ub=1&token=e03d720fba9e44cd90ad93b4146bdb07&expires=1760691146&h=1&lang=it
+https://vixcloud.co/playlist/165955?ub=1&token=e435fd2bb99d92423d4807848ac2ec1a&expires=1760692536&h=1&lang=it
+#EXTINF:-1 tvg-id="857" tvg-name="Salvate il soldato Ryan" tvg-logo="https://image.tmdb.org/t/p/w500/yHPksncwQ3l9ZiKiArvgcU1dVig.jpg" group-title="Guerra",Salvate il soldato Ryan
+#EXTVLCOPT:http-referrer=https://vixsrc.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-origin=https://vixsrc.to/
+https://vixcloud.co/playlist/133889?ub=1&token=85b7dc90ddf656fa992f27a5ecfd59d6&expires=1760692537&h=1&lang=it
 #EXTINF:-1 tvg-id="429" tvg-name="Il buono, il brutto, il cattivo" tvg-logo="https://image.tmdb.org/t/p/w500/2VTS3wRO59hPEHiXqMOkGaypJGe.jpg" group-title="Western",Il buono, il brutto, il cattivo
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/104735?ub=1&token=9ce1a5a2f62ca531877978e58e867167&expires=1760691169&h=1&lang=it
+https://vixcloud.co/playlist/104735?ub=1&token=a13266719f59bed116fa5b069a3e10ba&expires=1760692560&h=1&lang=it
 #EXTINF:-1 tvg-id="68718" tvg-name="Django Unchained" tvg-logo="https://image.tmdb.org/t/p/w500/3Q41QdROiYoEMY0qXhfRMT5DbPd.jpg" group-title="Western",Django Unchained
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/225503?ub=1&token=878c91b7c2f9d10496794930db35f528&expires=1760691170&h=1&lang=it
+https://vixcloud.co/playlist/225503?ub=1&token=b73bbb7fa45c41e768f8a0291cc00b7b&expires=1760692560&h=1&lang=it
 #EXTINF:-1 tvg-id="333484" tvg-name="I magnifici sette" tvg-logo="https://image.tmdb.org/t/p/w500/vnKOorV0xmGIOuGXGL5qRAeUimx.jpg" group-title="Western",I magnifici sette
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/303871?ub=1&token=5d9274fc1b7ee49a1184d920b31d0f9b&expires=1760691182&h=1&lang=it
+https://vixcloud.co/playlist/303871?ub=1&token=6ddb9d45d1eafa4c69c5fd2e91d84d4a&expires=1760692572&h=1&lang=it
 #EXTINF:-1 tvg-id="281957" tvg-name="Revenant - Redivivo" tvg-logo="https://image.tmdb.org/t/p/w500/cw8HPomOzNql3l4xdaJJ8HGIZds.jpg" group-title="Western",Revenant - Redivivo
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/204306?ub=1&token=02551d20ccc23a60a50ecd547b73f2d8&expires=1760691193&h=1&lang=it
+https://vixcloud.co/playlist/204306?ub=1&token=a6f3fcb49f646b9195dccd5c7ad80c66&expires=1760692584&h=1&lang=it
 #EXTINF:-1 tvg-id="44896" tvg-name="Rango" tvg-logo="https://image.tmdb.org/t/p/w500/oGi2tcoBfiDG0qg2gZhtksF2szF.jpg" group-title="Western",Rango
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/187186?ub=1&token=0acf45324f872c1a3a1b75592023dd56&expires=1760691194&h=1&lang=it
+https://vixcloud.co/playlist/187186?ub=1&token=1db3cdce303b7af55009432acaa128ea&expires=1760692585&h=1&lang=it
 #EXTINF:-1 tvg-id="698508" tvg-name="Riscatto d'amore" tvg-logo="https://image.tmdb.org/t/p/w500/dDnR8otFzpSyCmTy0v3ru634Ov0.jpg" group-title="Western",Riscatto d'amore
 #EXTVLCOPT:http-referrer=https://vixsrc.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-origin=https://vixsrc.to/
-https://vixcloud.co/playlist/166649?ub=1&token=9734a5fe6d67e9b8fe783751fb3c6729&expires=1760691195&h=1&lang=it
+https://vixcloud.co/playlist/166649?ub=1&token=e42a8b18f91e10b93fca3785f1a16b45&expires=1760692586&h=1&lang=it
