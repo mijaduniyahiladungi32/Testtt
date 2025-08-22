@@ -4927,6 +4927,194 @@
                 ]
             }
         ],
+        "Tennis US OPEN - QUALIFYING</span>": [
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 5",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 4",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 6",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1525"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 8",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 9",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 10",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 11",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 12",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 13",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 14",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 15",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1518"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "US OPEN - QUALIFYING : Court 16",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1519"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - WINSTON SALEM</span>": [
+            {
+                "time": "20:00",
+                "event": "ATP - WINSTON SALEM : Korda S. vs Fucsovics M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "ATP - WINSTON SALEM : Bu or Van De Zandschulp vs Mpetshi Perricard G.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CLEVELAND</span>": [
+            {
+                "time": "21:30",
+                "event": "WTA - CLEVELAND : Cirstea S. vs Zakharova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WTA - CLEVELAND : Li A. vs Wang or Golubic",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - MONTERREY</span>": [
+            {
+                "time": "01:00",
+                "event": "WTA - MONTERREY : Shnaider D. vs Parks A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "WTA - MONTERREY : Noskova or Alexandrova vs Ruzic or Bouzkova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "20:00",
@@ -5638,7 +5826,12 @@
             {
                 "time": "16:00",
                 "event": "SPEEDWAY Ekstraliga : Rybnik vs Zielona Gora",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Eleven Sports 2 Poland",
+                        "channel_id": "72"
+                    }
+                ]
             },
             {
                 "time": "18:30",
