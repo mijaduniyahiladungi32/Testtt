@@ -3,3 +3,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",e1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e943ad288964c77917cc654fc60d109:18cf07106507f411210c4a26d901a9e4
+https://cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd
