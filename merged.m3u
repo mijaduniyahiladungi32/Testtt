@@ -6013,9 +6013,6 @@ https://maldivesn.net/hilaytv/astropremierleague1
 #EXTINF:-1 tvg-id="astropl2.mv" tvg-name="Astro Premier League 2" tvg-logo="https://8upload.com/image/67e561beed691/astro-premier_league_2.png" group-title="hilaytv",Astro Premier League 2
 https://maldivesn.net/hilaytv/astropremierleague2
 
-#EXTINF:-1 tvg-id="dazn2.mv" tvg-name="DAZN TV" tvg-logo="https://8upload.com/image/683275c9a7e5f/dazntvhilay.png" group-title="hilaytv",DAZN TV
-https://maldivesn.net/hilaytv/dazntv
-
 #EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://8upload.com/image/6876d491ddca3/tycsportshilay.png" group-title="hilaytv",TyC Sports
 https://maldivesn.net/hilaytv/tycsports
 
@@ -6036,9 +6033,6 @@ https://maldivesn.net/hilaytv/skyf1uhd
 
 #EXTINF:-1 tvg-id="goltv.mv" tvg-name="Women Sports Network" tvg-logo="https://8upload.com/image/682b18f05b548/womensportsnethilay.png" group-title="hilaytv",Women Sports Network
 https://maldivesn.net/hilaytv/womesportsnet
-
-#EXTINF:-1 tvg-id="daznf1.mv" tvg-name="DAZN Women's Football" tvg-logo="https://8upload.com/image/68325b8cbe455/daznwomensfootballhilay.png" group-title="hilaytv",DAZN Women's Football
-https://maldivesn.net/hilaytv/daznwomenfootball
 
 #EXTINF:-1 tvg-id="SuperLaliga.mv" tvg-name="Fuel TV" tvg-logo="https://8upload.com/image/682a559523f4e/fueltvhilay.png" group-title="hilaytv",Fuel TV
 https://maldivesn.net/hilaytv/fueltv
@@ -6253,12 +6247,6 @@ https://maldivesn.net/hilaytv/astrofootball
 #EXTINF:-1 tvg-id="AstroSportsPlus.mv" tvg-name="Astro Sports Plus" tvg-logo="https://8upload.com/image/67e561bee39cd/astro_sports_plus.png" group-title="hilaytv",Astro Sports Plus
 https://maldivesn.net/hilaytv/astrosportsplus
 
-#EXTINF:-1 tvg-id="dazn" tvg-name="DAZN" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="hilaytv",DAZN
-https://maldivesn.net/hilaytv/daznen
-
-#EXTINF:-1 tvg-id="dazn1sp.mv" tvg-name="DAZN" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="hilaytv",DAZN
-https://maldivesn.net/hilaytv/dazn01
-
 #EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="hilaytv",DAZN 1
 https://maldivesn.net/hilaytv/dazn1
 
@@ -6270,6 +6258,12 @@ https://maldivesn.net/hilaytv/dazn3
 
 #EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 4" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="hilaytv",DAZN 4
 https://maldivesn.net/hilaytv/dazn4
+
+#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 5" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="hilaytv",DAZN 5
+https://maldivesn.net/hilaytv/dazn5
+
+#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 6" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="hilaytv",DAZN 6
+https://maldivesn.net/hilaytv/dazn6
 
 #EXTINF:-1 tvg-id="usawest.mv" tvg-name="USA Network West" tvg-logo="https://8upload.com/image/67dcee90d0b59/usachannel.png" group-title="hilaytv",USA Network West
 https://maldivesn.net/hilaytv/usanetwork
@@ -6306,6 +6300,9 @@ https://maldivesn.net/hilaytv/bollywoodhd
 
 #EXTINF:-1 tvg-id="andtv" tvg-name="&TV HD" tvg-logo="https://8upload.com/image/68579e314310e/andtvhilay.png" group-title="hilaytv",&TV HD
 https://maldivesn.net/hilaytv/andtv
+
+#EXTINF:-1 tvg-id="zeeone" tvg-name="Z One" tvg-logo="https://8upload.com/image/68729f0b484f9/zeeonehilay.png" group-title="hilaytv",Z One
+https://maldivesn.net/hilaytv/zeeworld
 
 #EXTINF:-1 tvg-id="desiplay" tvg-name="DesiPlay TV HD" tvg-logo="https://8upload.com/image/68579fbf87175/desiplaytvhilay.png" group-title="hilaytv",DesiPlay TV HD
 https://maldivesn.net/hilaytv/desiplay
@@ -32190,9 +32187,6 @@ https://maldivesn.net/hilaytv/astropremierleague1
 #EXTINF:-1 tvg-id="astropl2.mv" tvg-name="Astro Premier League 2" tvg-logo="https://8upload.com/image/67e561beed691/astro-premier_league_2.png" group-title="combined-playlist",Astro Premier League 2
 https://maldivesn.net/hilaytv/astropremierleague2
 
-#EXTINF:-1 tvg-id="dazn2.mv" tvg-name="DAZN TV" tvg-logo="https://8upload.com/image/683275c9a7e5f/dazntvhilay.png" group-title="combined-playlist",DAZN TV
-https://maldivesn.net/hilaytv/dazntv
-
 #EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://8upload.com/image/6876d491ddca3/tycsportshilay.png" group-title="combined-playlist",TyC Sports
 https://maldivesn.net/hilaytv/tycsports
 
@@ -32213,9 +32207,6 @@ https://maldivesn.net/hilaytv/skyf1uhd
 
 #EXTINF:-1 tvg-id="goltv.mv" tvg-name="Women Sports Network" tvg-logo="https://8upload.com/image/682b18f05b548/womensportsnethilay.png" group-title="combined-playlist",Women Sports Network
 https://maldivesn.net/hilaytv/womesportsnet
-
-#EXTINF:-1 tvg-id="daznf1.mv" tvg-name="DAZN Women's Football" tvg-logo="https://8upload.com/image/68325b8cbe455/daznwomensfootballhilay.png" group-title="combined-playlist",DAZN Women's Football
-https://maldivesn.net/hilaytv/daznwomenfootball
 
 #EXTINF:-1 tvg-id="SuperLaliga.mv" tvg-name="Fuel TV" tvg-logo="https://8upload.com/image/682a559523f4e/fueltvhilay.png" group-title="combined-playlist",Fuel TV
 https://maldivesn.net/hilaytv/fueltv
@@ -32430,12 +32421,6 @@ https://maldivesn.net/hilaytv/astrofootball
 #EXTINF:-1 tvg-id="AstroSportsPlus.mv" tvg-name="Astro Sports Plus" tvg-logo="https://8upload.com/image/67e561bee39cd/astro_sports_plus.png" group-title="combined-playlist",Astro Sports Plus
 https://maldivesn.net/hilaytv/astrosportsplus
 
-#EXTINF:-1 tvg-id="dazn" tvg-name="DAZN" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="combined-playlist",DAZN
-https://maldivesn.net/hilaytv/daznen
-
-#EXTINF:-1 tvg-id="dazn1sp.mv" tvg-name="DAZN" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="combined-playlist",DAZN
-https://maldivesn.net/hilaytv/dazn01
-
 #EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="combined-playlist",DAZN 1
 https://maldivesn.net/hilaytv/dazn1
 
@@ -32447,6 +32432,12 @@ https://maldivesn.net/hilaytv/dazn3
 
 #EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 4" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="combined-playlist",DAZN 4
 https://maldivesn.net/hilaytv/dazn4
+
+#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 5" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="combined-playlist",DAZN 5
+https://maldivesn.net/hilaytv/dazn5
+
+#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 6" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="combined-playlist",DAZN 6
+https://maldivesn.net/hilaytv/dazn6
 
 #EXTINF:-1 tvg-id="usawest.mv" tvg-name="USA Network West" tvg-logo="https://8upload.com/image/67dcee90d0b59/usachannel.png" group-title="combined-playlist",USA Network West
 https://maldivesn.net/hilaytv/usanetwork
@@ -32483,6 +32474,9 @@ https://maldivesn.net/hilaytv/bollywoodhd
 
 #EXTINF:-1 tvg-id="andtv" tvg-name="&TV HD" tvg-logo="https://8upload.com/image/68579e314310e/andtvhilay.png" group-title="combined-playlist",&TV HD
 https://maldivesn.net/hilaytv/andtv
+
+#EXTINF:-1 tvg-id="zeeone" tvg-name="Z One" tvg-logo="https://8upload.com/image/68729f0b484f9/zeeonehilay.png" group-title="combined-playlist",Z One
+https://maldivesn.net/hilaytv/zeeworld
 
 #EXTINF:-1 tvg-id="desiplay" tvg-name="DesiPlay TV HD" tvg-logo="https://8upload.com/image/68579fbf87175/desiplaytvhilay.png" group-title="combined-playlist",DesiPlay TV HD
 https://maldivesn.net/hilaytv/desiplay
@@ -58022,283 +58016,279 @@ https://jmp2.uk/US2900004L2
 #EXTINF:-1 channel-id="USBA3800004EL" tvg-id="USBA3800004EL" tvg-chno="4587" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20241105T185655SQUARE.png" group-title="combined-playlist",Fireplace Vibes
 https://jmp2.uk/USBA3800004EL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="combined-playlist", Star Sports 1
-https://d6.merichunidya.com:1686/hls/star1in.m3u8?md5=yn4fR670stREuKxC_GAt4A&expires=1756054484
+https://d10.merichunidya.com:1686/hls/star1in.m3u8?md5=UCvi5MFmX_Pb_OTqtHqLFw&expires=1756058080
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" group-title="combined-playlist", Star Sports 1 Hindi
-https://d4.merichunidya.com:1686/hls/starhindi.m3u8?md5=ncC1ocgM16_BndHo2aJG8Q&expires=1756054485
+https://d4.merichunidya.com:1686/hls/starhindi.m3u8?md5=xxouNT4hOjw-8eN7x-gSHw&expires=1756058080
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="combined-playlist", PTV Sports
-https://d5.merichunidya.com:1686/hls/ptvpk.m3u8?md5=u6jtl64HmmpkfpwcPPaPDw&expires=1756054485
+https://d9.merichunidya.com:1686/hls/ptvpk.m3u8?md5=0xX0gWabohlNsj2VIOQw6w&expires=1756058080
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="combined-playlist", Willow HD
-https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=Q8eGfnXGq0Xzdofyk_fwrQ&expires=1756054485
+https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=a5ftuYr-HxJcPSVtlToN7w&expires=1756058080
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="combined-playlist", Willow HD 2
-https://d6.merichunidya.com:1686/hls/willowextra.m3u8?md5=ZKQulmdqbKOmyzWJwdO7TQ&expires=1756054485
+https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=yOc5X51fiunPjw0qt_x_sw&expires=1756058081
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png" group-title="combined-playlist", Ten Sports
-https://d8.merichunidya.com:1686/hls/tenspk.m3u8?md5=3xx2HGGsamhCiMWDc4aQ2A&expires=1756054485
+https://d1.merichunidya.com:1686/hls/tenspk.m3u8?md5=u5-AWt_2mP5nvWZcI3Tcrw&expires=1756058081
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png" group-title="combined-playlist", A Sports HD
-https://d10.merichunidya.com:1686/hls/asportshd.m3u8?md5=gpwPxwTRFsa4cTzf_H-43A&expires=1756054486
+https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=45v5Mu6tAURWy689KbF80g&expires=1756058081
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png" group-title="combined-playlist", Sky Sports Cricket
-https://d3.merichunidya.com:1686/hls/skyscric.m3u8?md5=oPR1SsdLemmVqh2UoOoCGw&expires=1756054486
+https://d6.merichunidya.com:1686/hls/skyscric.m3u8?md5=aTpWOonk_kb54nLufvS_cw&expires=1756058082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png" group-title="combined-playlist", Sky Sports Main Event
-https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=MghwGaJH1doPs_YGOxcYeQ&expires=1756054486
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="combined-playlist", TNT 1
-https://d3.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=EWGVo9Z2-maYw-3d5cpxTQ&expires=1756054486
+https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=59WhRjXh-kFqsj8Uq39wXg&expires=1756058082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="combined-playlist", TNT 2
-https://d6.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=jyH3hbpcYdxJmJxmTWnK4g&expires=1756054487
+https://d7.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=GiCIghGdjjuLg8UVRLGiHg&expires=1756058083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="combined-playlist", TNT 3
-https://d7.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=owXedjgMjY2k7IrZd-A9Ag&expires=1756054487
+https://d7.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=DQl5FL_SKO7vhEueT8ZhUA&expires=1756058083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="combined-playlist", TNT 4
-https://d2.merichunidya.com:1686/hls/bbtespn.m3u8?md5=UYLUhqOK_xzdkf59bIhD-w&expires=1756054487
+https://d6.merichunidya.com:1686/hls/bbtespn.m3u8?md5=hxWMYDHprUhYF16Xvm643Q&expires=1756058083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="combined-playlist", Sky Sports 1
-https://d6.merichunidya.com:1686/hls/sky1nz.m3u8?md5=30Vq9GMv-HOwpFShsWsdYg&expires=1756054487
+https://d4.merichunidya.com:1686/hls/sky1nz.m3u8?md5=zyU4PJDeyleoMV8--jQACw&expires=1756058083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="combined-playlist", Sky Sports 2
-https://d5.merichunidya.com:1686/hls/sky2nz.m3u8?md5=E9zdfsM-W3cwwC2S9ZIZYQ&expires=1756054487
+https://d10.merichunidya.com:1686/hls/sky2nz.m3u8?md5=OUOFJx_Cf5vBIew_joIkDg&expires=1756058084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="combined-playlist", Sky Sports 3
-https://d7.merichunidya.com:1686/hls/sky3nz.m3u8?md5=I0xn5JeUftnOMs38lA-QXg&expires=1756054488
+https://d3.merichunidya.com:1686/hls/sky3nz.m3u8?md5=jsvOw871tq-Uml507dRCBg&expires=1756058084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="combined-playlist", Sky Sports 4
-https://d4.merichunidya.com:1686/hls/sky4nz.m3u8?md5=cl63Edww5xrvNlwDL6P1zw&expires=1756054488
+https://d8.merichunidya.com:1686/hls/sky4nz.m3u8?md5=XL0rofrKQ3OQVt7KF6d2rQ&expires=1756058084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="combined-playlist", Sky Sports 5
-https://d6.merichunidya.com:1686/hls/sky5nz.m3u8?md5=0tEHMtag8hjFz3_LZJJyvA&expires=1756054488
+https://d4.merichunidya.com:1686/hls/sky5nz.m3u8?md5=GabUtkTlbCyuJBLYPW9fEA&expires=1756058084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="combined-playlist", Sky Sports 6
-https://d7.merichunidya.com:1686/hls/sky6nz.m3u8?md5=aH0f7MaGqJIPwQj7bvfVhg&expires=1756054488
+https://d7.merichunidya.com:1686/hls/sky6nz.m3u8?md5=BwDlQrb8OTDnhvaTQ7BfZw&expires=1756058085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="combined-playlist", Sky Sports 7
-https://d5.merichunidya.com:1686/hls/sky7nz.m3u8?md5=3-MSAq5fi3dODiBHTAAcoA&expires=1756054489
+https://d8.merichunidya.com:1686/hls/sky7nz.m3u8?md5=kzlkJjHx1raS2uqocPHc3Q&expires=1756058085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="combined-playlist", Sky Sports 8
-https://d10.merichunidya.com:1686/hls/sky8nz.m3u8?md5=8QA6BdIzekWN5kmy87Nvaw&expires=1756054489
+https://d8.merichunidya.com:1686/hls/sky8nz.m3u8?md5=4C3tv1EiBsA3NMCsguAkIA&expires=1756058085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="combined-playlist", Sky Sports 9
-https://d2.merichunidya.com:1686/hls/sky9nz.m3u8?md5=TOvPPSdJATLyOj_g6rQTbw&expires=1756054489
+https://d8.merichunidya.com:1686/hls/sky9nz.m3u8?md5=Wlb_fJn9zphRJw6KDTZMVA&expires=1756058086
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/skycinema.png" group-title="combined-playlist", Sky Cinema
-https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=IhiZJotAyCMOyE6s89S2jQ&expires=1756054489
+https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=Pn2xtOyBwqUmfgw4g7bG9A&expires=1756058086
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829332.png" group-title="combined-playlist", Sky Sports Action
-https://d6.merichunidya.com:1686/hls/skysact.m3u8?md5=-BDkpe-9BIKxAE5kgpL_KA&expires=1756054490
+https://d1.merichunidya.com:1686/hls/skysact.m3u8?md5=y2-8b3pXizOIvaX8VO8UAA&expires=1756058086
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008055327.png" group-title="combined-playlist", Sky Sports Golf
-https://d9.merichunidya.com:1686/hls/skysgol.m3u8?md5=AfKCXBKHvD9-Ly9bUDvzxA&expires=1756054490
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/43-by-xfireflix.png" group-title="combined-playlist", Sky Sports Premier League
-https://d6.merichunidya.com:1686/hls/skysprem.m3u8?md5=4qeI6cDhVkVpyCyIdflyWQ&expires=1756054490
+https://d8.merichunidya.com:1686/hls/skysgol.m3u8?md5=Kozfcses-R57-SylfkOMNQ&expires=1756058087
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png" group-title="combined-playlist", Sky Sports Football
-https://d1.merichunidya.com:1686/hls/skysfott.m3u8?md5=sxLJixkGgfnJvk0FHI9NKA&expires=1756054490
+https://d3.merichunidya.com:1686/hls/skysfott.m3u8?md5=roNT5Nkh1N9r-tfYoaV3mA&expires=1756058087
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008347584.png" group-title="combined-playlist", Sky Sports Plus
-https://d4.merichunidya.com:1686/hls/skysare.m3u8?md5=gwUE_rCzfIXKG44uv5XTAw&expires=1756054490
+https://d4.merichunidya.com:1686/hls/skysare.m3u8?md5=68ORHNsuA3eLd7vNgQ7qgw&expires=1756058087
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png" group-title="combined-playlist", Sky Sports F1
-https://d6.merichunidya.com:1686/hls/skysfor1.m3u8?md5=bKs-FfHftgofCiLdhKKXVw&expires=1756054491
+https://d2.merichunidya.com:1686/hls/skysfor1.m3u8?md5=TwwwKbzH7S4D6G_hmoFCNw&expires=1756058087
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png" group-title="combined-playlist", LaLiGA
-https://d3.merichunidya.com:1686/hls/laligauk.m3u8?md5=iEks69XX8KPzh5gLw_gYaQ&expires=1756054491
+https://d5.merichunidya.com:1686/hls/laligauk.m3u8?md5=HJ5IBVNZCCvZ2EAfM-X5vQ&expires=1756058088
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png" group-title="combined-playlist", Premier Sports 1
-https://d2.merichunidya.com:1686/hls/premieruk.m3u8?md5=3BDwM3JXR6f6rIXD07Nvig&expires=1756054491
+https://d8.merichunidya.com:1686/hls/premieruk.m3u8?md5=Cgn8oGxKxvPfrcrpKZhVtA&expires=1756058088
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png" group-title="combined-playlist", Premier Sports 2
-https://d1.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=NFv9Fx7NFSzpfgnw92pPKg&expires=1756054491
+https://d3.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=LptBzEJG_tr_ERAdr8FsFw&expires=1756058088
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png" group-title="combined-playlist", Super Football
-https://d10.merichunidya.com:1686/hls/superfotball.m3u8?md5=MvL7GembQluAIXm-l4wIkA&expires=1756054492
+https://d10.merichunidya.com:1686/hls/superfotball.m3u8?md5=FMNqZG91DbyI_-I0z4DfZQ&expires=1756058088
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008781606.png" group-title="combined-playlist", Super Premier League
-https://d7.merichunidya.com:1686/hls/superpremier.m3u8?md5=pd5dZeuJFNUdwLFOVXwieQ&expires=1756054492
+https://d10.merichunidya.com:1686/hls/superpremier.m3u8?md5=8Ls8t2WHYxXtQ6LPwBermQ&expires=1756058089
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008895589.png" group-title="combined-playlist", Astro Cricket
-https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=Ahu0s2hditQCvMm4jZ1oSw&expires=1756054492
+https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=vW09sU7ZmDODWRvuSA48IA&expires=1756058089
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png" group-title="combined-playlist", ESPN 1
-https://d3.merichunidya.com:1686/hls/espnusa.m3u8?md5=4-7lkCGsJX7Vbusfyo4qiQ&expires=1756054492
+https://d10.merichunidya.com:1686/hls/espnusa.m3u8?md5=md1JNYbLdY0l58eNzZrEGg&expires=1756058089
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png" group-title="combined-playlist", ESPN 2
-https://d3.merichunidya.com:1686/hls/espn2.m3u8?md5=yXYoPHjERiTI7Urep2VlOQ&expires=1756054492
+https://d9.merichunidya.com:1686/hls/espn2.m3u8?md5=vAwqHzLWPQMYefNXOhv-hw&expires=1756058090
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png" group-title="combined-playlist", Sky Sports Arena
-https://d8.merichunidya.com:1686/hls/skysare.m3u8?md5=uk1B1rdPOxfAcVT9_ARjdw&expires=1756054492
+https://d8.merichunidya.com:1686/hls/skysare.m3u8?md5=F_3DuFhNFYDgs4dGVTUzxg&expires=1756058090
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png" group-title="combined-playlist", Sky Sports Mix
-https://d10.merichunidya.com:1686/hls/skysmixx.m3u8?md5=Qit493nsPz-Au0Ph1iwk-g&expires=1756054493
+https://d9.merichunidya.com:1686/hls/skysmixx.m3u8?md5=5fSEAPb_P_tWEVGWIL-mmg&expires=1756058090
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png" group-title="combined-playlist", Sky Sports Tennis
-https://d9.merichunidya.com:1686/hls/skystennis.m3u8?md5=XJ9xkTToFISGfHh6zb274A&expires=1756054493
+https://d4.merichunidya.com:1686/hls/skystennis.m3u8?md5=6TfjV8Ne-KDsQiNIs6aIyQ&expires=1756058090
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png" group-title="combined-playlist", Fox Cricket 501 HD
-https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=f7WYTJgxTtAeNrpWWsHdOg&expires=1756054493
+https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=FtbUiWw2Z8irkPSSScVb8Q&expires=1756058091
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png" group-title="combined-playlist", Sony Sports3
-https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=1yl9-e4azL2XnFIzHdYung&expires=1756054493
+https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=UGkU1uUOLXVL1N2XJlXfNQ&expires=1756058091
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-08-24 20:38:29 (BD Time)
+# Update on 2025-08-24 21:45:34 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTINF:-1 tvg-id="skysp2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="combined-playlist",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skyscric3.m3u8?md6=lBiOnADggaiNm4biQ5xUAw&expires=1756050619|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skyscric3.m3u8?md6=NMfSafVpzdsBTwvlvPBJaQ&expires=1756054644|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="gtv" tvg-name="T Sports BD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tsportsbd.png" group-title="combined-playlist",T Sports BD
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/bdgtv.m3u8?md6=hM60U4MM2uc6D62noBKkUQ&expires=1756050620|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/bdgtv.m3u8?md6=V56R0GK1mMOimrN-S52GRA&expires=1756054645|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="willow" tvg-name="Willow" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png" group-title="combined-playlist",Willow
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/willowuse.m3u8?md6=ARk9SsbVqN2M1ATMRnr3cQ&expires=1756050622|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/willowuse.m3u8?md6=k6VGPm6ejtzf7UaaRLNxpg&expires=1756054647|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp" tvg-name="Star Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1.png" group-title="combined-playlist",Star Sports 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/starsp.m3u8?md6=8_emsqg1m9R4vx_MJScbVA&expires=1756050623|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/starsp.m3u8?md6=KrZseyspb14GltDrnomYYw&expires=1756054648|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp" tvg-name="Star Sports 1 Hindi" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1_hindi.png" group-title="combined-playlist",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/starsp.m3u8?md6=dQYHeYzv-RtNY0fb7G6AUQ&expires=1756050624|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/starsp.m3u8?md6=U75RERAYkSNCIteYF1dx5g&expires=1756054649|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp2" tvg-name="Star Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Star_Sports_2.png" group-title="combined-playlist",Star Sports 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/star2in.m3u8?md6=9dXZEZNw4QnfK8GdMUyNmA&expires=1756050625|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/star2in.m3u8?md6=Y1OBrQL9OuaymjAQDScztg&expires=1756054650|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp3" tvg-name="Star Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/star_sports3.jpg" group-title="combined-playlist",Star Sports 3
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/star1hi.m3u8?md6=6qbZF203OspHE8qCAEoKgw&expires=1756050626|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/star1hi.m3u8?md6=YF2EQpjieIsKg1nyqlb0_g&expires=1756054651|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="ptvsp" tvg-name="PTV Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ptv_sports.png" group-title="combined-playlist",PTV Sports
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/ptvpk.m3u8?md6=zjQKK1uCQVjFGfcH0jncow&expires=1756050627|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/ptvpk.m3u8?md6=sFWcTb6zuXfxWKSqEBWV9w&expires=1756054652|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="asports" tvg-name="A Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/a_sports.png" group-title="combined-playlist",A Sports
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/asportiso.m3u8?md6=esh7FPt1oajcX-wj_6zLrA&expires=1756050628|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/asportiso.m3u8?md6=0a9pKtCthchJv9FGb1X1HQ&expires=1756054653|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="tensp" tvg-name="Ten Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/ten_cricket.png" group-title="combined-playlist",Ten Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/tenspk.m3u8?md6=hMqbAjYHAUkA6joctdDILQ&expires=1756050629|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/tenspk.m3u8?md6=BEphSjdLkaCUEfD3NQAtIg&expires=1756054654|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="geosuper" tvg-name="Geo Super" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/geo.jpg" group-title="combined-playlist",Geo Super
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/geosp.m3u8?md6=76gNrNudjANFrekak5pJZQ&expires=1756050630|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/geosp.m3u8?md6=Dcgf-Litpcnwc9C9yAixCA&expires=1756054655|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="astrocric" tvg-name="Astro Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/astro_cricket.png" group-title="combined-playlist",Astro Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/astrocric.m3u8?md6=kw7cFZZAaqawDKjtg1G0LA&expires=1756050631|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/astrocric.m3u8?md6=0UJ3TCGMms3tncBxZ6Etng&expires=1756054656|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp1" tvg-name="Sky Sports Main Event" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_main_event.png" group-title="combined-playlist",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=udyOJtsdfb4mhqCytrh86w&expires=1756050632|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=kF-D7DCcfBHeGwsAHWOm8A&expires=1756054657|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyfb" tvg-name="Sky Sports Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportsf.png" group-title="combined-playlist",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=F3l1oKPW656gIXg9Y3HFCg&expires=1756050632|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=hqH6GDzillHqAUJnTks95A&expires=1756054658|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyarena" tvg-name="Sky Sports Arena" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_areana.png" group-title="combined-playlist",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=2JrfNQr0vBInrb-svlnKDQ&expires=1756050633|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=xohDoveDUZ9zH1FZncKYyQ&expires=1756054659|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp3" tvg-name="Sky Sports Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportaction.png" group-title="combined-playlist",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skysact.m3u8?md6=-ilfwTmGLfcVj19BlIXGtA&expires=1756050634|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skysact.m3u8?md6=GO6ydP7ercs8aWhdYrVLAw&expires=1756054660|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp4" tvg-name="Sky Sports Golf" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportdglof.png" group-title="combined-playlist",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skysgol.m3u8?md6=2cp_6O3K-c3oCZmnRDDZPA&expires=1756050635|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skysgol.m3u8?md6=ITKoMHqvXqKkWbEWjXxTxQ&expires=1756054661|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp5" tvg-name="Sky Sports Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportspr.png" group-title="combined-playlist",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skypremol.m3u8?md6=u__OMB_GKc4NA6CwyfySpg&expires=1756050636|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skypremol.m3u8?md6=5IITgW7594ldhwDq6X1Efg&expires=1756054662|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyspf1" tvg-name="Sky Sports F1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sportsl.png" group-title="combined-playlist",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=8SeQf2nv5JZDmYIv8SPZDg&expires=1756050637|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=xcnuDxpp-OHU3fQRTs4n9w&expires=1756054663|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skymix" tvg-name="Sky Sports Mix" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportmix.png" group-title="combined-playlist",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skysmixx.m3u8?md6=eDK7fXFPeOXI7JwYm8T1Ig&expires=1756050638|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skysmixx.m3u8?md6=A9EzbNbaro-PKyx1ffRhJg&expires=1756054664|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyten" tvg-name="Sky Sports Tennis" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_Sports_tenis.png" group-title="combined-playlist",Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skyten.m3u8?md6=pu4xw71SVfcO7VmEcDt5qQ&expires=1756050639|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skyten.m3u8?md6=xgKSrJAmmk2Amuu96J6fUQ&expires=1756054665|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="osncric" tvg-name="SuperSport Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sli.jpg" group-title="combined-playlist",SuperSport Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/super2cric.m3u8?md6=SehN0DxxFBqZRMo5pz8Jcw&expires=1756050640|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/super2cric.m3u8?md6=_nwowJe9TR8e0YgCUAhfpA&expires=1756054666|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp9" tvg-name="SuperSport Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ssp.png" group-title="combined-playlist",SuperSport Premier League
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/superprem.m3u8?md6=Wzay5blAbLr_ogyOh-DOcw&expires=1756050641|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/superprem.m3u8?md6=W45TBjy8OavnUL6pXHL3tQ&expires=1756054666|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp10" tvg-name="SuperSport LaLiga" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/superla.jpg" group-title="combined-playlist",SuperSport LaLiga
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/dasdadaskasdlaliga.m3u8?md6=uJXv-tH_-UFKLUvOE4CohA&expires=1756050642|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/dasdadaskasdlaliga.m3u8?md6=u5ENSrdpLG0fjDckOgQW5g&expires=1756054667|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp8" tvg-name="SuperSport Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersf.jpg" group-title="combined-playlist",SuperSport Football
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/superspfb.m3u8?md6=kkfkoKM3OS82AZRToPyxtQ&expires=1756050642|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/superspfb.m3u8?md6=-n5b-Kwraj6hNYIio50c5Q&expires=1756054668|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp3" tvg-name="SuperSport Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersa.jpg" group-title="combined-playlist",SuperSport Action
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/superspaction.m3u8?md6=pK2tWBZQ45jRUnoz24jHNQ&expires=1756050643|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/superspaction.m3u8?md6=O0CC_3JyOl2Kn1lX3NAN9A&expires=1756054669|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp6" tvg-name="SuperSport GrandStand" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersg.jpg" group-title="combined-playlist",SuperSport GrandStand
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/supergs.m3u8?md6=Jt3kpcHCfEXTuolizq6yYg&expires=1756050644|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/supergs.m3u8?md6=yQBcdmzy7U_U0MzOpEl96A&expires=1756054670|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btsp1" tvg-name="TNT Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png" group-title="combined-playlist",TNT Sports 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=nDqbqctXwtW_H2IQV46mpQ&expires=1756050645|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=iGDWX9oug-KjnDBoIiXI0g&expires=1756054671|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btsp2" tvg-name="TNT Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png" group-title="combined-playlist",TNT Sports 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=iLTygSAdE6VuHf1PNnUjCw&expires=1756050646|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=MwmfEW3tiy9LUIOkQNOW9Q&expires=1756054672|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btsp3" tvg-name="TNT Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png" group-title="combined-playlist",TNT Sports 3
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=znA-WQM3uLm0oSossx__-g&expires=1756050647|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=kQExbe9f6UCUCelcTE54qw&expires=1756054673|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btespn" tvg-name="TNT Sports 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png" group-title="combined-playlist",TNT Sports 4
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/basdbkklltadsnbpgh4io9.m3u8?md6=V4k-3yrMHspNKj7fwjWwcg&expires=1756050648|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/basdbkklltadsnbpgh4io9.m3u8?md6=CcmlEFdZ_cteOaYGWus9HQ&expires=1756054674|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="ten1" tvg-name="Sony Sports Ten 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sony1.jpg" group-title="combined-playlist",Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/ten1endia.m3u8?md6=2Tx3TDwClEF1qOTSy2wEVg&expires=1756050649|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/ten1endia.m3u8?md6=DwwAcFCYDIAz0FbZvMO4lA&expires=1756054675|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="criclife1" tvg-name="CricLife 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="combined-playlist",CricLife 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/criclife1.m3u8?md6=dlUt4wmE1iFh1WvLUV0YjA&expires=1756050650|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/criclife1.m3u8?md6=Fw9-eEaidZcQd3Qno5UVQg&expires=1756054676|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="criclife2" tvg-name="CricLife 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="combined-playlist",CricLife 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/criclife2.m3u8?md6=LQY3OoRsWmHt39cBeurxfw&expires=1756050651|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/criclife2.m3u8?md6=CfDdRlsxqJakjo0ab6mEmw&expires=1756054676|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="eurosp1" tvg-name="Eurosport 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport1.jpg" group-title="combined-playlist",Eurosport 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/eurosp1.m3u8?md6=n3EDmZgU8Ncgy0wxu3OUbA&expires=1756050652|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/eurosp1.m3u8?md6=g_TuLkZxGR8efvrPo2_oHw&expires=1756054677|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="eurosp2" tvg-name="Eurosport 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport2.jpg" group-title="combined-playlist",Eurosport 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/eurosp2.m3u8?md6=9j8nG_BKdtqZsF262jXy-Q&expires=1756050653|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/eurosp2.m3u8?md6=oCLGeb0V2o_Y_1Ulvk4srg&expires=1756054678|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="viaplaysp1" tvg-name="Premier Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg" group-title="combined-playlist",Premier Sports 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/viaplaysp1.m3u8?md6=e4YuYmSNh3eUZxhX8q5cYA&expires=1756050654|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/viaplaysp1.m3u8?md6=twWxGBi3SwmmuMMPlFVzaA&expires=1756054679|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="viaplaysp2" tvg-name="Premier Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers2.jpg" group-title="combined-playlist",Premier Sports 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/viaplaysp2.m3u8?md6=v5XVhgL-QvEM43PJts1wVw&expires=1756050655|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/viaplaysp2.m3u8?md6=8F5-qtK6BWf1ti-KPhEgrg&expires=1756054680|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="combined-playlist",A&E US Eastern Feed SD
 https://tvpass.org/live/AEEast/sd
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="combined-playlist",A&E US Eastern Feed HD
@@ -65981,7 +65971,7 @@ https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8|Referer=https://jxoplay.xyz/
 https://zekonew.newkso.ru/zeko/premium44/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/schedule-event/Volleyball.jpg" group-title="combined-playlist",Stanford vs Nebraska - Women's College Volleyball (19:30 UK GMT)
 https://zekonew.newkso.ru/zeko/premium44/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
-# Last Updated: 2025-08-24 14:55:34 UTC
+# Last Updated: 2025-08-24 15:53:46 UTC
 
 
 
@@ -73159,283 +73149,279 @@ https://jmp2.uk/US2900004L2
 #EXTINF:-1 channel-id="USBA3800004EL" tvg-id="USBA3800004EL" tvg-chno="4587" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20241105T185655SQUARE.png" group-title="SamsungTVPlus-All",Fireplace Vibes
 https://jmp2.uk/USBA3800004EL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CricHD", Star Sports 1
-https://d6.merichunidya.com:1686/hls/star1in.m3u8?md5=yn4fR670stREuKxC_GAt4A&expires=1756054484
+https://d10.merichunidya.com:1686/hls/star1in.m3u8?md5=UCvi5MFmX_Pb_OTqtHqLFw&expires=1756058080
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" group-title="CricHD", Star Sports 1 Hindi
-https://d4.merichunidya.com:1686/hls/starhindi.m3u8?md5=ncC1ocgM16_BndHo2aJG8Q&expires=1756054485
+https://d4.merichunidya.com:1686/hls/starhindi.m3u8?md5=xxouNT4hOjw-8eN7x-gSHw&expires=1756058080
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="CricHD", PTV Sports
-https://d5.merichunidya.com:1686/hls/ptvpk.m3u8?md5=u6jtl64HmmpkfpwcPPaPDw&expires=1756054485
+https://d9.merichunidya.com:1686/hls/ptvpk.m3u8?md5=0xX0gWabohlNsj2VIOQw6w&expires=1756058080
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png" group-title="CricHD", Willow HD
-https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=Q8eGfnXGq0Xzdofyk_fwrQ&expires=1756054485
+https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=a5ftuYr-HxJcPSVtlToN7w&expires=1756058080
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png" group-title="CricHD", Willow HD 2
-https://d6.merichunidya.com:1686/hls/willowextra.m3u8?md5=ZKQulmdqbKOmyzWJwdO7TQ&expires=1756054485
+https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=yOc5X51fiunPjw0qt_x_sw&expires=1756058081
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png" group-title="CricHD", Ten Sports
-https://d8.merichunidya.com:1686/hls/tenspk.m3u8?md5=3xx2HGGsamhCiMWDc4aQ2A&expires=1756054485
+https://d1.merichunidya.com:1686/hls/tenspk.m3u8?md5=u5-AWt_2mP5nvWZcI3Tcrw&expires=1756058081
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png" group-title="CricHD", A Sports HD
-https://d10.merichunidya.com:1686/hls/asportshd.m3u8?md5=gpwPxwTRFsa4cTzf_H-43A&expires=1756054486
+https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=45v5Mu6tAURWy689KbF80g&expires=1756058081
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png" group-title="CricHD", Sky Sports Cricket
-https://d3.merichunidya.com:1686/hls/skyscric.m3u8?md5=oPR1SsdLemmVqh2UoOoCGw&expires=1756054486
+https://d6.merichunidya.com:1686/hls/skyscric.m3u8?md5=aTpWOonk_kb54nLufvS_cw&expires=1756058082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png" group-title="CricHD", Sky Sports Main Event
-https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=MghwGaJH1doPs_YGOxcYeQ&expires=1756054486
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD", TNT 1
-https://d3.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=EWGVo9Z2-maYw-3d5cpxTQ&expires=1756054486
+https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=59WhRjXh-kFqsj8Uq39wXg&expires=1756058082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD", TNT 2
-https://d6.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=jyH3hbpcYdxJmJxmTWnK4g&expires=1756054487
+https://d7.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=GiCIghGdjjuLg8UVRLGiHg&expires=1756058083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD", TNT 3
-https://d7.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=owXedjgMjY2k7IrZd-A9Ag&expires=1756054487
+https://d7.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=DQl5FL_SKO7vhEueT8ZhUA&expires=1756058083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png" group-title="CricHD", TNT 4
-https://d2.merichunidya.com:1686/hls/bbtespn.m3u8?md5=UYLUhqOK_xzdkf59bIhD-w&expires=1756054487
+https://d6.merichunidya.com:1686/hls/bbtespn.m3u8?md5=hxWMYDHprUhYF16Xvm643Q&expires=1756058083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD", Sky Sports 1
-https://d6.merichunidya.com:1686/hls/sky1nz.m3u8?md5=30Vq9GMv-HOwpFShsWsdYg&expires=1756054487
+https://d4.merichunidya.com:1686/hls/sky1nz.m3u8?md5=zyU4PJDeyleoMV8--jQACw&expires=1756058083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD", Sky Sports 2
-https://d5.merichunidya.com:1686/hls/sky2nz.m3u8?md5=E9zdfsM-W3cwwC2S9ZIZYQ&expires=1756054487
+https://d10.merichunidya.com:1686/hls/sky2nz.m3u8?md5=OUOFJx_Cf5vBIew_joIkDg&expires=1756058084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD", Sky Sports 3
-https://d7.merichunidya.com:1686/hls/sky3nz.m3u8?md5=I0xn5JeUftnOMs38lA-QXg&expires=1756054488
+https://d3.merichunidya.com:1686/hls/sky3nz.m3u8?md5=jsvOw871tq-Uml507dRCBg&expires=1756058084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD", Sky Sports 4
-https://d4.merichunidya.com:1686/hls/sky4nz.m3u8?md5=cl63Edww5xrvNlwDL6P1zw&expires=1756054488
+https://d8.merichunidya.com:1686/hls/sky4nz.m3u8?md5=XL0rofrKQ3OQVt7KF6d2rQ&expires=1756058084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD", Sky Sports 5
-https://d6.merichunidya.com:1686/hls/sky5nz.m3u8?md5=0tEHMtag8hjFz3_LZJJyvA&expires=1756054488
+https://d4.merichunidya.com:1686/hls/sky5nz.m3u8?md5=GabUtkTlbCyuJBLYPW9fEA&expires=1756058084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD", Sky Sports 6
-https://d7.merichunidya.com:1686/hls/sky6nz.m3u8?md5=aH0f7MaGqJIPwQj7bvfVhg&expires=1756054488
+https://d7.merichunidya.com:1686/hls/sky6nz.m3u8?md5=BwDlQrb8OTDnhvaTQ7BfZw&expires=1756058085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD", Sky Sports 7
-https://d5.merichunidya.com:1686/hls/sky7nz.m3u8?md5=3-MSAq5fi3dODiBHTAAcoA&expires=1756054489
+https://d8.merichunidya.com:1686/hls/sky7nz.m3u8?md5=kzlkJjHx1raS2uqocPHc3Q&expires=1756058085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD", Sky Sports 8
-https://d10.merichunidya.com:1686/hls/sky8nz.m3u8?md5=8QA6BdIzekWN5kmy87Nvaw&expires=1756054489
+https://d8.merichunidya.com:1686/hls/sky8nz.m3u8?md5=4C3tv1EiBsA3NMCsguAkIA&expires=1756058085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="CricHD", Sky Sports 9
-https://d2.merichunidya.com:1686/hls/sky9nz.m3u8?md5=TOvPPSdJATLyOj_g6rQTbw&expires=1756054489
+https://d8.merichunidya.com:1686/hls/sky9nz.m3u8?md5=Wlb_fJn9zphRJw6KDTZMVA&expires=1756058086
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/skycinema.png" group-title="CricHD", Sky Cinema
-https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=IhiZJotAyCMOyE6s89S2jQ&expires=1756054489
+https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=Pn2xtOyBwqUmfgw4g7bG9A&expires=1756058086
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829332.png" group-title="CricHD", Sky Sports Action
-https://d6.merichunidya.com:1686/hls/skysact.m3u8?md5=-BDkpe-9BIKxAE5kgpL_KA&expires=1756054490
+https://d1.merichunidya.com:1686/hls/skysact.m3u8?md5=y2-8b3pXizOIvaX8VO8UAA&expires=1756058086
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008055327.png" group-title="CricHD", Sky Sports Golf
-https://d9.merichunidya.com:1686/hls/skysgol.m3u8?md5=AfKCXBKHvD9-Ly9bUDvzxA&expires=1756054490
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/43-by-xfireflix.png" group-title="CricHD", Sky Sports Premier League
-https://d6.merichunidya.com:1686/hls/skysprem.m3u8?md5=4qeI6cDhVkVpyCyIdflyWQ&expires=1756054490
+https://d8.merichunidya.com:1686/hls/skysgol.m3u8?md5=Kozfcses-R57-SylfkOMNQ&expires=1756058087
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png" group-title="CricHD", Sky Sports Football
-https://d1.merichunidya.com:1686/hls/skysfott.m3u8?md5=sxLJixkGgfnJvk0FHI9NKA&expires=1756054490
+https://d3.merichunidya.com:1686/hls/skysfott.m3u8?md5=roNT5Nkh1N9r-tfYoaV3mA&expires=1756058087
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008347584.png" group-title="CricHD", Sky Sports Plus
-https://d4.merichunidya.com:1686/hls/skysare.m3u8?md5=gwUE_rCzfIXKG44uv5XTAw&expires=1756054490
+https://d4.merichunidya.com:1686/hls/skysare.m3u8?md5=68ORHNsuA3eLd7vNgQ7qgw&expires=1756058087
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png" group-title="CricHD", Sky Sports F1
-https://d6.merichunidya.com:1686/hls/skysfor1.m3u8?md5=bKs-FfHftgofCiLdhKKXVw&expires=1756054491
+https://d2.merichunidya.com:1686/hls/skysfor1.m3u8?md5=TwwwKbzH7S4D6G_hmoFCNw&expires=1756058087
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png" group-title="CricHD", LaLiGA
-https://d3.merichunidya.com:1686/hls/laligauk.m3u8?md5=iEks69XX8KPzh5gLw_gYaQ&expires=1756054491
+https://d5.merichunidya.com:1686/hls/laligauk.m3u8?md5=HJ5IBVNZCCvZ2EAfM-X5vQ&expires=1756058088
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png" group-title="CricHD", Premier Sports 1
-https://d2.merichunidya.com:1686/hls/premieruk.m3u8?md5=3BDwM3JXR6f6rIXD07Nvig&expires=1756054491
+https://d8.merichunidya.com:1686/hls/premieruk.m3u8?md5=Cgn8oGxKxvPfrcrpKZhVtA&expires=1756058088
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png" group-title="CricHD", Premier Sports 2
-https://d1.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=NFv9Fx7NFSzpfgnw92pPKg&expires=1756054491
+https://d3.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=LptBzEJG_tr_ERAdr8FsFw&expires=1756058088
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png" group-title="CricHD", Super Football
-https://d10.merichunidya.com:1686/hls/superfotball.m3u8?md5=MvL7GembQluAIXm-l4wIkA&expires=1756054492
+https://d10.merichunidya.com:1686/hls/superfotball.m3u8?md5=FMNqZG91DbyI_-I0z4DfZQ&expires=1756058088
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008781606.png" group-title="CricHD", Super Premier League
-https://d7.merichunidya.com:1686/hls/superpremier.m3u8?md5=pd5dZeuJFNUdwLFOVXwieQ&expires=1756054492
+https://d10.merichunidya.com:1686/hls/superpremier.m3u8?md5=8Ls8t2WHYxXtQ6LPwBermQ&expires=1756058089
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008895589.png" group-title="CricHD", Astro Cricket
-https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=Ahu0s2hditQCvMm4jZ1oSw&expires=1756054492
+https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=vW09sU7ZmDODWRvuSA48IA&expires=1756058089
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png" group-title="CricHD", ESPN 1
-https://d3.merichunidya.com:1686/hls/espnusa.m3u8?md5=4-7lkCGsJX7Vbusfyo4qiQ&expires=1756054492
+https://d10.merichunidya.com:1686/hls/espnusa.m3u8?md5=md1JNYbLdY0l58eNzZrEGg&expires=1756058089
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png" group-title="CricHD", ESPN 2
-https://d3.merichunidya.com:1686/hls/espn2.m3u8?md5=yXYoPHjERiTI7Urep2VlOQ&expires=1756054492
+https://d9.merichunidya.com:1686/hls/espn2.m3u8?md5=vAwqHzLWPQMYefNXOhv-hw&expires=1756058090
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png" group-title="CricHD", Sky Sports Arena
-https://d8.merichunidya.com:1686/hls/skysare.m3u8?md5=uk1B1rdPOxfAcVT9_ARjdw&expires=1756054492
+https://d8.merichunidya.com:1686/hls/skysare.m3u8?md5=F_3DuFhNFYDgs4dGVTUzxg&expires=1756058090
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png" group-title="CricHD", Sky Sports Mix
-https://d10.merichunidya.com:1686/hls/skysmixx.m3u8?md5=Qit493nsPz-Au0Ph1iwk-g&expires=1756054493
+https://d9.merichunidya.com:1686/hls/skysmixx.m3u8?md5=5fSEAPb_P_tWEVGWIL-mmg&expires=1756058090
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png" group-title="CricHD", Sky Sports Tennis
-https://d9.merichunidya.com:1686/hls/skystennis.m3u8?md5=XJ9xkTToFISGfHh6zb274A&expires=1756054493
+https://d4.merichunidya.com:1686/hls/skystennis.m3u8?md5=6TfjV8Ne-KDsQiNIs6aIyQ&expires=1756058090
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png" group-title="CricHD", Fox Cricket 501 HD
-https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=f7WYTJgxTtAeNrpWWsHdOg&expires=1756054493
+https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=FtbUiWw2Z8irkPSSScVb8Q&expires=1756058091
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png" group-title="CricHD", Sony Sports3
-https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=1yl9-e4azL2XnFIzHdYung&expires=1756054493
+https://d10.merichunidya.com:1686/hls/ten1hd.m3u8?md5=UGkU1uUOLXVL1N2XJlXfNQ&expires=1756058091
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-08-24 20:38:29 (BD Time)
+# Update on 2025-08-24 21:45:34 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTINF:-1 tvg-id="skysp2" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="CricHD",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skyscric3.m3u8?md6=lBiOnADggaiNm4biQ5xUAw&expires=1756050619|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skyscric3.m3u8?md6=NMfSafVpzdsBTwvlvPBJaQ&expires=1756054644|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="gtv" tvg-name="T Sports BD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tsportsbd.png" group-title="CricHD",T Sports BD
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/bdgtv.m3u8?md6=hM60U4MM2uc6D62noBKkUQ&expires=1756050620|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/bdgtv.m3u8?md6=V56R0GK1mMOimrN-S52GRA&expires=1756054645|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="willow" tvg-name="Willow" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png" group-title="CricHD",Willow
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/willowuse.m3u8?md6=ARk9SsbVqN2M1ATMRnr3cQ&expires=1756050622|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/willowuse.m3u8?md6=k6VGPm6ejtzf7UaaRLNxpg&expires=1756054647|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp" tvg-name="Star Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1.png" group-title="CricHD",Star Sports 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/starsp.m3u8?md6=8_emsqg1m9R4vx_MJScbVA&expires=1756050623|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/starsp.m3u8?md6=KrZseyspb14GltDrnomYYw&expires=1756054648|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp" tvg-name="Star Sports 1 Hindi" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1_hindi.png" group-title="CricHD",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/starsp.m3u8?md6=dQYHeYzv-RtNY0fb7G6AUQ&expires=1756050624|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/starsp.m3u8?md6=U75RERAYkSNCIteYF1dx5g&expires=1756054649|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp2" tvg-name="Star Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Star_Sports_2.png" group-title="CricHD",Star Sports 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/star2in.m3u8?md6=9dXZEZNw4QnfK8GdMUyNmA&expires=1756050625|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/star2in.m3u8?md6=Y1OBrQL9OuaymjAQDScztg&expires=1756054650|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="starsp3" tvg-name="Star Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/star_sports3.jpg" group-title="CricHD",Star Sports 3
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/star1hi.m3u8?md6=6qbZF203OspHE8qCAEoKgw&expires=1756050626|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/star1hi.m3u8?md6=YF2EQpjieIsKg1nyqlb0_g&expires=1756054651|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="ptvsp" tvg-name="PTV Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ptv_sports.png" group-title="CricHD",PTV Sports
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/ptvpk.m3u8?md6=zjQKK1uCQVjFGfcH0jncow&expires=1756050627|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/ptvpk.m3u8?md6=sFWcTb6zuXfxWKSqEBWV9w&expires=1756054652|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="asports" tvg-name="A Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/a_sports.png" group-title="CricHD",A Sports
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/asportiso.m3u8?md6=esh7FPt1oajcX-wj_6zLrA&expires=1756050628|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/asportiso.m3u8?md6=0a9pKtCthchJv9FGb1X1HQ&expires=1756054653|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="tensp" tvg-name="Ten Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/ten_cricket.png" group-title="CricHD",Ten Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/tenspk.m3u8?md6=hMqbAjYHAUkA6joctdDILQ&expires=1756050629|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/tenspk.m3u8?md6=BEphSjdLkaCUEfD3NQAtIg&expires=1756054654|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="geosuper" tvg-name="Geo Super" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/geo.jpg" group-title="CricHD",Geo Super
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/geosp.m3u8?md6=76gNrNudjANFrekak5pJZQ&expires=1756050630|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/geosp.m3u8?md6=Dcgf-Litpcnwc9C9yAixCA&expires=1756054655|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="astrocric" tvg-name="Astro Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/astro_cricket.png" group-title="CricHD",Astro Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/astrocric.m3u8?md6=kw7cFZZAaqawDKjtg1G0LA&expires=1756050631|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/astrocric.m3u8?md6=0UJ3TCGMms3tncBxZ6Etng&expires=1756054656|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp1" tvg-name="Sky Sports Main Event" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_main_event.png" group-title="CricHD",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=udyOJtsdfb4mhqCytrh86w&expires=1756050632|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=kF-D7DCcfBHeGwsAHWOm8A&expires=1756054657|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyfb" tvg-name="Sky Sports Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportsf.png" group-title="CricHD",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=F3l1oKPW656gIXg9Y3HFCg&expires=1756050632|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=hqH6GDzillHqAUJnTks95A&expires=1756054658|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyarena" tvg-name="Sky Sports Arena" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_areana.png" group-title="CricHD",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=2JrfNQr0vBInrb-svlnKDQ&expires=1756050633|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=xohDoveDUZ9zH1FZncKYyQ&expires=1756054659|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp3" tvg-name="Sky Sports Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportaction.png" group-title="CricHD",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skysact.m3u8?md6=-ilfwTmGLfcVj19BlIXGtA&expires=1756050634|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skysact.m3u8?md6=GO6ydP7ercs8aWhdYrVLAw&expires=1756054660|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp4" tvg-name="Sky Sports Golf" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportdglof.png" group-title="CricHD",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skysgol.m3u8?md6=2cp_6O3K-c3oCZmnRDDZPA&expires=1756050635|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skysgol.m3u8?md6=ITKoMHqvXqKkWbEWjXxTxQ&expires=1756054661|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skysp5" tvg-name="Sky Sports Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportspr.png" group-title="CricHD",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skypremol.m3u8?md6=u__OMB_GKc4NA6CwyfySpg&expires=1756050636|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skypremol.m3u8?md6=5IITgW7594ldhwDq6X1Efg&expires=1756054662|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyspf1" tvg-name="Sky Sports F1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sportsl.png" group-title="CricHD",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=8SeQf2nv5JZDmYIv8SPZDg&expires=1756050637|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=xcnuDxpp-OHU3fQRTs4n9w&expires=1756054663|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skymix" tvg-name="Sky Sports Mix" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportmix.png" group-title="CricHD",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skysmixx.m3u8?md6=eDK7fXFPeOXI7JwYm8T1Ig&expires=1756050638|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skysmixx.m3u8?md6=A9EzbNbaro-PKyx1ffRhJg&expires=1756054664|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="skyten" tvg-name="Sky Sports Tennis" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_Sports_tenis.png" group-title="CricHD",Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/skyten.m3u8?md6=pu4xw71SVfcO7VmEcDt5qQ&expires=1756050639|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/skyten.m3u8?md6=xgKSrJAmmk2Amuu96J6fUQ&expires=1756054665|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="osncric" tvg-name="SuperSport Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sli.jpg" group-title="CricHD",SuperSport Cricket
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/super2cric.m3u8?md6=SehN0DxxFBqZRMo5pz8Jcw&expires=1756050640|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/super2cric.m3u8?md6=_nwowJe9TR8e0YgCUAhfpA&expires=1756054666|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp9" tvg-name="SuperSport Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ssp.png" group-title="CricHD",SuperSport Premier League
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/superprem.m3u8?md6=Wzay5blAbLr_ogyOh-DOcw&expires=1756050641|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/superprem.m3u8?md6=W45TBjy8OavnUL6pXHL3tQ&expires=1756054666|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp10" tvg-name="SuperSport LaLiga" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/superla.jpg" group-title="CricHD",SuperSport LaLiga
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/dasdadaskasdlaliga.m3u8?md6=uJXv-tH_-UFKLUvOE4CohA&expires=1756050642|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/dasdadaskasdlaliga.m3u8?md6=u5ENSrdpLG0fjDckOgQW5g&expires=1756054667|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp8" tvg-name="SuperSport Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersf.jpg" group-title="CricHD",SuperSport Football
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/superspfb.m3u8?md6=kkfkoKM3OS82AZRToPyxtQ&expires=1756050642|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/superspfb.m3u8?md6=-n5b-Kwraj6hNYIio50c5Q&expires=1756054668|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp3" tvg-name="SuperSport Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersa.jpg" group-title="CricHD",SuperSport Action
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/superspaction.m3u8?md6=pK2tWBZQ45jRUnoz24jHNQ&expires=1756050643|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/superspaction.m3u8?md6=O0CC_3JyOl2Kn1lX3NAN9A&expires=1756054669|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="supersp6" tvg-name="SuperSport GrandStand" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersg.jpg" group-title="CricHD",SuperSport GrandStand
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/supergs.m3u8?md6=Jt3kpcHCfEXTuolizq6yYg&expires=1756050644|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/supergs.m3u8?md6=yQBcdmzy7U_U0MzOpEl96A&expires=1756054670|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btsp1" tvg-name="TNT Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png" group-title="CricHD",TNT Sports 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=nDqbqctXwtW_H2IQV46mpQ&expires=1756050645|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=iGDWX9oug-KjnDBoIiXI0g&expires=1756054671|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btsp2" tvg-name="TNT Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png" group-title="CricHD",TNT Sports 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=iLTygSAdE6VuHf1PNnUjCw&expires=1756050646|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=MwmfEW3tiy9LUIOkQNOW9Q&expires=1756054672|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btsp3" tvg-name="TNT Sports 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png" group-title="CricHD",TNT Sports 3
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=znA-WQM3uLm0oSossx__-g&expires=1756050647|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=kQExbe9f6UCUCelcTE54qw&expires=1756054673|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="btespn" tvg-name="TNT Sports 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png" group-title="CricHD",TNT Sports 4
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/basdbkklltadsnbpgh4io9.m3u8?md6=V4k-3yrMHspNKj7fwjWwcg&expires=1756050648|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/basdbkklltadsnbpgh4io9.m3u8?md6=CcmlEFdZ_cteOaYGWus9HQ&expires=1756054674|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="ten1" tvg-name="Sony Sports Ten 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sony1.jpg" group-title="CricHD",Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/ten1endia.m3u8?md6=2Tx3TDwClEF1qOTSy2wEVg&expires=1756050649|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/ten1endia.m3u8?md6=DwwAcFCYDIAz0FbZvMO4lA&expires=1756054675|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="criclife1" tvg-name="CricLife 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="CricHD",CricLife 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/criclife1.m3u8?md6=dlUt4wmE1iFh1WvLUV0YjA&expires=1756050650|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/criclife1.m3u8?md6=Fw9-eEaidZcQd3Qno5UVQg&expires=1756054676|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="criclife2" tvg-name="CricLife 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="CricHD",CricLife 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/criclife2.m3u8?md6=LQY3OoRsWmHt39cBeurxfw&expires=1756050651|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/criclife2.m3u8?md6=CfDdRlsxqJakjo0ab6mEmw&expires=1756054676|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="eurosp1" tvg-name="Eurosport 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport1.jpg" group-title="CricHD",Eurosport 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/eurosp1.m3u8?md6=n3EDmZgU8Ncgy0wxu3OUbA&expires=1756050652|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/eurosp1.m3u8?md6=g_TuLkZxGR8efvrPo2_oHw&expires=1756054677|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="eurosp2" tvg-name="Eurosport 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport2.jpg" group-title="CricHD",Eurosport 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/eurosp2.m3u8?md6=9j8nG_BKdtqZsF262jXy-Q&expires=1756050653|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/eurosp2.m3u8?md6=oCLGeb0V2o_Y_1Ulvk4srg&expires=1756054678|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="viaplaysp1" tvg-name="Premier Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg" group-title="CricHD",Premier Sports 1
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/viaplaysp1.m3u8?md6=e4YuYmSNh3eUZxhX8q5cYA&expires=1756050654|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/viaplaysp1.m3u8?md6=twWxGBi3SwmmuMMPlFVzaA&expires=1756054679|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 #EXTINF:-1 tvg-id="viaplaysp2" tvg-name="Premier Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers2.jpg" group-title="CricHD",Premier Sports 2
 #EXTVLCOPT:http-referrer=https://dlolcast.com/
 #EXTVLCOPT:http-origin=https://dlolcast.com
-https://off-4.dlolcast.com:8099/hls/viaplaysp2.m3u8?md6=v5XVhgL-QvEM43PJts1wVw&expires=1756050655|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://off-4.dlolcast.com:8099/hls/viaplaysp2.m3u8?md6=8F5-qtK6BWf1ti-KPhEgrg&expires=1756054680|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="TVPass",A&E US Eastern Feed SD
 https://tvpass.org/live/AEEast/sd
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" group-title="TVPass",A&E US Eastern Feed HD
@@ -81118,7 +81104,7 @@ https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8|Referer=https://jxoplay.xyz/
 https://zekonew.newkso.ru/zeko/premium44/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/schedule-event/Volleyball.jpg" group-title="daddylive-schedule",Stanford vs Nebraska - Women's College Volleyball (19:30 UK GMT)
 https://zekonew.newkso.ru/zeko/premium44/mono.m3u8|Referer=https://jxoplay.xyz/&Origin=https://jxoplay.xyz&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A139.0%29%20Gecko/20100101%20Firefox/139.0
-# Last Updated: 2025-08-24 14:55:34 UTC
+# Last Updated: 2025-08-24 15:53:46 UTC
 
 
 
