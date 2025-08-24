@@ -559,8 +559,6 @@ https://thedaddy.click/stream/stream-575.php
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
-https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
@@ -649,6 +647,8 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
+https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -824,8 +824,6 @@ https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 #EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
 https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
-https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
-#EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
 https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
@@ -942,7 +940,7 @@ https://thedaddy.click/stream/stream-27.php
 #EXTINF:-1 tvg-id="italyseriecgiuglianovspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Giugliano vs Potenza Calcio (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giugliano_vs_Potenza Calcio.png" group-title="Eventi Live",Soccer | Italy - Serie C : Giugliano vs Potenza Calcio (18:00)
 https://thedaddy.click/stream/stream-109.php
 
-#EXTINF:-1 tvg-id="italyserieacagliarivsfiorentina" tvg-name="Soccer | Italy - Serie A : Cagliari vs Fiorentina (18:30)" tvg-logo="https://toppng.com/uploads/preview/fiorentina-football-logo-png-11536004822yjkelhhilz.png" group-title="Eventi Live",Soccer | Italy - Serie A : Cagliari vs Fiorentina (18:30)
+#EXTINF:-1 tvg-id="italyserieacagliarivsfiorentina" tvg-name="Soccer | Italy - Serie A : Cagliari vs Fiorentina (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cagliari_vs_Fiorentina.png" group-title="Eventi Live",Soccer | Italy - Serie A : Cagliari vs Fiorentina (18:30)
 https://thedaddy.click/stream/stream-877.php
 
 #EXTINF:-1 tvg-id="italyserieacomovslazio" tvg-name="Soccer | Italy - Serie A : Como vs Lazio (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Como_vs_Lazio.png" group-title="Eventi Live",Soccer | Italy - Serie A : Como vs Lazio (18:30)
@@ -1008,10 +1006,10 @@ https://thedaddy.click/stream/stream-879.php
 #EXTINF:-1 tvg-id="mx2netherlandsworldchampionshiprace2" tvg-name="Motorsport | MX2 | Netherlands World Championship | Race 2 (16:00)" tvg-logo="https://www.strongfishing.com/wp-content/uploads/2024/01/MX2_2021_1530820_alt2.png" group-title="Eventi Live",Motorsport | MX2 | Netherlands World Championship | Race 2 (16:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="mxgpnetherlandsworldchampionshiprace2" tvg-name="Motorsport | MXGP | Netherlands World Championship | Race 2 (17:00)" tvg-logo="https://www.mxgp.com/sites/default/files/images/PNG_OK(1).png" group-title="Eventi Live",Motorsport | MXGP | Netherlands World Championship | Race 2 (17:00)
+#EXTINF:-1 tvg-id="mxgpnetherlandsworldchampionshiprace2" tvg-name="Motorsport | MXGP | Netherlands World Championship | Race 2 (17:00)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/mxgp-logo-png_seeklogo-335579.png" group-title="Eventi Live",Motorsport | MXGP | Netherlands World Championship | Race 2 (17:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="thevueltaaespañastage2hilly157km" tvg-name="Cycling | The Vuelta a España: Stage 2 Hilly | 157 km (13:30)" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/08/Vuelta-Espana-2002-Logo-Vector.svg-.png" group-title="Eventi Live",Cycling | The Vuelta a España: Stage 2 Hilly | 157 km (13:30)
+#EXTINF:-1 tvg-id="thevueltaaespañastage2hilly157km" tvg-name="Cycling | The Vuelta a España: Stage 2 Hilly | 157 km (13:30)" tvg-logo="https://static.flashscore.com/res/image/data/AP31Nk97-Ch6GOzRl.png" group-title="Eventi Live",Cycling | The Vuelta a España: Stage 2 Hilly | 157 km (13:30)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="tourdebeneluxstage5masculine" tvg-name="Cycling | Tour de Benelux | Stage 5 Masculine (14:00)" tvg-logo="https://images.seeklogo.com/logo-png/8/2/le-tour-de-france-2000-logo-png_seeklogo-82858.png" group-title="Eventi Live",Cycling | Tour de Benelux | Stage 5 Masculine (14:00)
