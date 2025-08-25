@@ -107,8 +107,6 @@ https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
 #EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK
 https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",FRANCE 24 (EN)
-https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO
 https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO
@@ -601,6 +599,8 @@ https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-logo="" group-title="Sport",ZONA DAZN
+https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 
 # DOCUMENTARI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -649,8 +649,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
-https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -932,10 +930,10 @@ https://thedaddy.click/stream/stream-870.php
 #EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvsliverpool" tvg-name="Soccer | England - Premier League : Newcastle United vs Liverpool (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United_vs_Liverpool.png" group-title="Eventi Live",Soccer | England - Premier League : Newcastle United vs Liverpool (21:00)
 https://thedaddy.click/stream/stream-874.php
 
-#EXTINF:-1 tvg-id="italyseriecnovaravsinterii" tvg-name="Soccer | Italy - Serie C : Novara vs Inter II (20:30)" group-title="Eventi Live",Soccer | Italy - Serie C : Novara vs Inter II (20:30)
+#EXTINF:-1 tvg-id="italyseriecnovaravsinterii" tvg-name="Soccer | Italy - Serie C : Novara vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_Inter II.png" group-title="Eventi Live",Soccer | Italy - Serie C : Novara vs Inter II (20:30)
 https://thedaddy.click/stream/stream-18.php
 
-#EXTINF:-1 tvg-id="italyseriecnovaravsinterii" tvg-name="Soccer | Italy - Serie C : Novara vs Inter II (20:30)" group-title="Eventi Live",Soccer | Italy - Serie C : Novara vs Inter II (20:30)
+#EXTINF:-1 tvg-id="italyseriecnovaravsinterii" tvg-name="Soccer | Italy - Serie C : Novara vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_Inter II.png" group-title="Eventi Live",Soccer | Italy - Serie C : Novara vs Inter II (20:30)
 https://thedaddy.click/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="italyseriecsalernitanavssiracusa" tvg-name="Soccer | Italy - Serie C : Salernitana vs Siracusa (21:00)" tvg-logo="https://logodetimes.com/times/unione-sportiva-salernitana-1919/unione-sportiva-salernitana-1919-2048.png" group-title="Eventi Live",Soccer | Italy - Serie C : Salernitana vs Siracusa (21:00)
@@ -950,7 +948,7 @@ https://thedaddy.click/stream/stream-21.php
 #EXTINF:-1 tvg-id="italyseriecaudacecerignolavspicerno" tvg-name="Soccer | Italy - Serie C : Audace Cerignola vs Picerno (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Audace Cerignola_vs_Picerno.png" group-title="Eventi Live",Soccer | Italy - Serie C : Audace Cerignola vs Picerno (21:00)
 https://thedaddy.click/stream/stream-22.php
 
-#EXTINF:-1 tvg-id="vueltaaespanastage3139sanmauriziocanaveseceres" tvg-name="Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)" tvg-logo="https://cyclingpro.net/spaziociclismo/wp-content/uploads/2023/08/Vuelta-a-Espana-2023-Tappa-9-Alto-Caravaca-de-la-Cruz.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)
+#EXTINF:-1 tvg-id="vueltaaespanastage3139sanmauriziocanaveseceres" tvg-name="Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)" tvg-logo="https://bikenewsmag.com/wp-content/uploads/2023/08/roadrace-2023Vuelta-a-Espana-stage9-course-profile-2-835x1024.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 3 - 139 San Maurizio Canavese - Ceres (14:10)
 https://thedaddy.click/stream/stream-878.php
 
 
