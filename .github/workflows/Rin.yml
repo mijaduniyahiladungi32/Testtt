@@ -1,12 +1,9 @@
-name: BeeSport Auto Build
+name: Run BeeSport Spider
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # run every 6 hours
-  workflow_dispatch:        # allow manual trigger
+    - cron: "*/30 * * * *"   # Runs every 30 minutes
 
 jobs:
   run-spider:
@@ -23,16 +20,17 @@ jobs:
 
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Run BeeSport spider
+      - name: Run BeeSport Spider
         run: |
           python spiders/live_beesport.py > BeeSport.m3u
 
-      - name: Commit & Push results
+      - name: Commit and Push BeeSport.m3u
         run: |
-          git config --global user.name "GitHub Action Bot"
-          git config --global user.email "action@github.com"
+          git config --global user.name "BeeSportBot"
+          git config --global user.email "actions@github.com"
           git add BeeSport.m3u
-          git commit -m "Auto update BeeSport playlist: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git commit -m "Update BeeSport.m3u" || echo "No changes to commit"
           git push
