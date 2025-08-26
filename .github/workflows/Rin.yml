@@ -1,0 +1,38 @@
+name: BeeSport Auto Build
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */6 * * *"   # run every 6 hours
+  workflow_dispatch:        # allow manual trigger
+
+jobs:
+  run-spider:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run BeeSport spider
+        run: |
+          python spiders/ > BeeSport.m3u
+
+      - name: Commit & Push results
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add BeeSport.m3u
+          git commit -m "Auto update BeeSport playlist: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git push
