@@ -27,7 +27,7 @@ jobs:
 
       - name: Run BeeSport spider
         run: |
-          python spiders/ > BeeSport.m3u
+          python spiders/live_beesport.py > BeeSport.m3u
 
       - name: Commit & Push results
         run: |
