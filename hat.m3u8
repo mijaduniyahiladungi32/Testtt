@@ -1,5 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",euro1hd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=46e559c2f9f645ce8d80c7fa20446bdb:597d214d66342ee042bccffeb165e750
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
